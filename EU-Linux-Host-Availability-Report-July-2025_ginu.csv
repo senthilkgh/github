@@ -1,0 +1,2792 @@
+Servername,host availability %,Status 
+slc12829,0.000747,Server on retired state on CMDB
+slc13866,0.004480287,Server on retired state on CMDB
+sgagc9004.srv.allianz,0.017174432,"Planned outage ,migration of server to aws CHG0610890"
+slc13958,0.017921147,Server on retired state on CMDB
+slc13946,0.019414576,Server on retired state on CMDB
+slc13962,0.022401434,"Server on shutdown state till 28th July, planned outage"
+sgagc9004.srv.allianz,0.023148148,"Planned outage ,migration of server to aws CHG0610890"
+sgagc9004.srv.allianz,0.025388292,"Planned outage ,migration of server to aws CHG0610890"
+sgagc9004.srv.allianz,0.031362007,"Planned outage ,migration of server to aws CHG0610890"
+slb16516.srv.allianz,0.033602151,Server decommissioned on 29th July 
+slb16450.srv.allianz,0.035468937,Server decommissioned on 1st  July 
+slb16523.srv.allianz,0.03770908,Server decommissioned on 31st  July 
+sgagc9004.srv.allianz,0.038082437,"Planned outage ,migration of server to aws CHG0610890"
+slb16524.srv.allianz,0.039949223,Server decommissioned on 31st  July 
+slb16512.srv.allianz,0.046669654,Server decommissioned on 29th July 
+sgagc9004.srv.allianz,0.05114994,"Planned outage ,migration of server to aws CHG0610890"
+sgagc9004.srv.allianz,0.052270012,"Planned outage ,migration of server to aws CHG0610890"
+sgagc9004,0.052643369,"Planned outage ,migration of server to aws CHG0610890"
+slb11181.srv.allianz,0.053016726,Not able to find server on CMDB 
+sgagc9004.sRV.allianz,0.053763441,"Planned outage ,migration of server to aws CHG0610890"
+sgagc9004.srv.allianz,0.062724014,"Planned outage ,migration of server to aws CHG0610890"
+sgagc9004.srv.allianz,0.080271804,"Planned outage ,migration of server to aws CHG0610890"
+sla71356.srv.allianz,0.082885305,Server Provisioned on 17th july 
+sgagc9004.srv.allianz,0.085872162,"Planned outage ,migration of server to aws CHG0610890"
+slb16445.srv.allianz,0.086992234,Server decommissioned on 1st  July 
+slc13851,0.087365591,Server on retired state on CMDB
+slc13878,0.089605735,Server on retired state on CMDB
+slb16446.srv.allianz,0.092592593,Server decommissioned on 1st  July 
+sgagc9004.srv.allianz,0.093339307,"Planned outage ,migration of server to aws CHG0610890"
+slc13925,0.094086022,Server on retired state on CMDB
+slc13884,0.094832736,Server on retired state on CMDB
+sgagc9004.srv.allianz,0.094832736,"Planned outage ,migration of server to aws CHG0610890"
+slc13843,0.095952808,Server on retired state on CMDB
+slb16447.srv.allianz,0.096326165,Server decommissioned on 1st  July 
+slc13860,0.097072879,Server on retired state on CMDB
+slc13834,0.098566308,Server on retired state on CMDB
+sgagc9004.srv.allianz,0.098566308,"Planned outage ,migration of server to aws CHG0610890"
+sgagc9004,0.09968638,"Planned outage ,migration of server to aws CHG0610890"
+sgagc9004.srv.allianz,0.100059737,"Planned outage ,migration of server to aws CHG0610890"
+slc13893,0.100806452,Server on retired state on CMDB
+slc13849,0.100806452,Server on retired state on CMDB
+slb16448.srv.allianz,0.100806452,Server decommissioned on 1st  July 
+slc13951,0.101553166,Server on retired state on CMDB
+slc13964,0.101926523,Server on retired state on CMDB
+slc13945,0.106033453,Server on retired state on CMDB
+sla71587.srv.allianz,0.106780167,Under scope of AGL Team
+slc13864,0.107526882,Server on retired state on CMDB
+slc13914,0.109393668,Server on retired state on CMDB
+slb16508.srv.allianz,0.122461171,Server decommissioned on 25st  July 
+slc02437,0.157930108,Server not showing on CMDB 
+slb27688.srv.allianz,0.165770609,Server not showing on CMDB 
+sgagc9004.srv.allianz,0.187051971,"Planned outage ,migration of server to aws CHG0610890"
+slc13961,0.209453405,Server on stopped state till 28th July 
+sgagc9004.srv.allianz,0.21281362,"Planned outage ,migration of server to aws CHG0610890"
+slb27697.srv.allianz,0.239695341,Server decommissioned on 3rd   July 
+sgagc9004.srv.allianz,0.253136201,"Planned outage ,migration of server to aws CHG0610890"
+slc12855,0.303539427,Planned outage 
+slb16476.srv.allianz,0.304286141,Server decommissioned on 11th    July 
+slc13844,0.320340502,Server on retired state on CMDB
+slc13952,0.324820789,Server on retired state on CMDB
+slc13879,0.324820789,Server on retired state on CMDB
+slc13850,0.326687575,Server on retired state on CMDB
+slc13861,0.329301075,Server on retired state on CMDB
+slc13852,0.329301075,Server on retired state on CMDB
+slc13934,0.330421147,Server on retired state on CMDB
+slc13908,0.333781362,Server on retired state on CMDB
+slc13885,0.336021505,Server on retired state on CMDB
+slc13915,0.338261649,Server on retired state on CMDB
+slc13926,0.344608722,Server on retired state on CMDB
+slc13894,0.346848865,Server on retired state on CMDB
+slb27717.srv.allianz,0.346848865,Server decommissioned on 11th    July 
+sgagc9004.agcsropus-vpc-fbrb4-dxootrhunho.ase1.aws.aztec.cloud.allianz,0.347222222,"Planned outage ,migration of server to aws CHG0610890"
+slc13965,0.347968937,Server on retired state on CMDB
+slc13865,0.349462366,Server on retired state on CMDB
+slb11219.srv.allianz,0.362903226,"Server not showing on cmdb ,Decommissioned "
+slb27761.srv.allianz,0.394265233,Server on retired state on CMDB
+slb27775.srv.allianz,0.39874552,Server on retired state on CMDB
+slb27731.srv.allianz,0.39874552,Server on retired state on CMDB
+slb27725.srv.allianz,0.400238949,Server on retired state on CMDB
+slb27720.srv.allianz,0.400238949,Server on retired state on CMDB
+slb27741.srv.allianz,0.403972521,Server on retired state on CMDB
+slb27747.srv.allianz,0.408452808,Server on retired state on CMDB
+slb27719.srv.allianz,0.409946237,Server on retired state on CMDB
+slb27768.srv.allianz,0.410692951,Server on retired state on CMDB
+slb27738.srv.allianz,0.410692951,Server on retired state on CMDB
+slb27737.srv.allianz,0.431974313,Server on retired state on CMDB
+slb27760.srv.allianz,0.433467742,Server on retired state on CMDB
+slb27724.srv.allianz,0.440188172,Server on retired state on CMDB
+slb27756.srv.allianz,0.445415173,Server on retired state on CMDB
+slb27730.srv.allianz,0.445415173,Server on retired state on CMDB
+slb27766.srv.allianz,0.44578853,Server on retired state on CMDB
+slb27751.srv.allianz,0.454749104,Server on retired state on CMDB
+slb27759.srv.allianz,0.460349462,Server on retired state on CMDB
+slb27727.srv.allianz,0.464829749,Server on retired state on CMDB
+slb27745.srv.allianz,0.465203106,Server on retired state on CMDB
+slb27740.srv.allianz,0.47416368,Server on retired state on CMDB
+slb27682.srv.allianz,0.474910394,Server on retired state on CMDB
+slb27734.srv.allianz,0.475657109,Server on retired state on CMDB
+slb27764.srv.allianz,0.47677718,Server on retired state on CMDB
+slb27754.srv.allianz,0.496565114,Server on retired state on CMDB
+slb27722.srv.allianz,0.499178614,Server on retired state on CMDB
+slb27769.srv.allianz,0.501418757,Server on retired state on CMDB
+slb27681.srv.allianz,0.505899044,Server on retired state on CMDB
+slb27773.srv.allianz,0.509259259,Server on retired state on CMDB
+slb27781.srv.allianz,0.509632616,Server on retired state on CMDB
+slb27733.srv.allianz,0.509632616,Server on retired state on CMDB
+slb27763.srv.allianz,0.513739546,Server on retired state on CMDB
+slb27744.srv.allianz,0.51448626,Server on retired state on CMDB
+slb27758.srv.allianz,0.515232975,Server on retired state on CMDB
+slb27726.srv.allianz,0.515232975,Server on retired state on CMDB
+slb27739.srv.allianz,0.518219833,Server on retired state on CMDB
+slb27762.srv.allianz,0.527180406,Server on retired state on CMDB
+slb27750.srv.allianz,0.595878136,Server on retired state on CMDB
+sgagc9004.srv.allianz,0.630600358,"Planned outage ,migration of server to aws CHG0610890"
+slb27785.srv.allianz,0.663082437,Server on retired state on CMDB
+slb16474.srv.allianz,0.672789725,Server on retired state on CMDB
+slb27700.srv.allianz,0.706391876,Server on retired state on CMDB
+slb27698.srv.allianz,0.737007168,Server on retired state on CMDB
+sgagc9004.srv.allianz,0.7515681,"Planned outage ,migration of server to aws CHG0610890"
+sgagc9004.srv.allianz,0.772849462,"Planned outage ,migration of server to aws CHG0610890"
+slb27728.srv.allianz,0.805704898,Server on retired state on CMDB
+slb27736.srv.allianz,0.8109319,Server on retired state on CMDB
+slb27753.srv.allianz,0.847894265,Server on retired state on CMDB
+slc12886,0.904271207,"Server '	In Maintenance"" Mode "
+slc13018,0.905764636,"Server '	In Maintenance"" Mode "
+slc13020,0.91323178,"Server '	In Maintenance"" Mode "
+slc13022,0.917712067,"Server '	In Maintenance"" Mode "
+slc12937,0.929659498,"Server '	In Maintenance"" Mode "
+sgagc9004.sRV.allianz,0.940113501,"Planned outage ,migration of server to aws CHG0610890"
+sla12786.srv.allianz,0.958781362,Server on retired state on CMDB
+slc10776,1.054360812,Server on retired state on CMDB
+slc10179,1.059587814,Server on retired state on CMDB
+slc10758,1.065561529,Server on retired state on CMDB
+slc12920,1.065934886,Server on retired state on CMDB
+slc13019,1.127538829,"Server '	In Maintenance"" Mode "
+sgagc9004.srv.allianz,1.182795699,"Planned outage ,migration of server to aws CHG0610890"
+slb27789.srv.allianz,1.409050179,Server created on july 31st 
+slb27735.srv.allianz,1.513216846,Server on retired state on CMDB
+slb27755.srv.allianz,1.543458781,Server on retired state on CMDB
+slb27765.srv.allianz,1.552419355,Server on retired state on CMDB
+slc13082.srv.allianz,1.596848865,"DR server ,server not availableon azure "
+slb27638.srv.allianz,1.637544803,Server on retired state on CMDB
+slc12874.srv.allianz,1.646505376,"DR server ,server not available on azure "
+slb27788.srv.allianz,1.686081243,Server created on july 31st 
+slc13845,1.752912186,Server on retired state on CMDB
+slb27752.srv.allianz,1.770459976,Server on retired state on CMDB
+slc13933,1.911589008,Created on 23rd July 
+slb27786.srv.allianz,2.017995818,Server created on july 31st 
+sgagc9004.srv.allianz,2.046370968,"Planned outage ,migration of server to aws CHG0610890"
+slb27784.srv.allianz,2.098267622,Server on retired state on CMDB
+slc13079.srv.allianz,2.124402628,"DR server on stopped state ,Hence planned outage "
+sgagc9004.srv.allianz,2.162485066,"Planned outage ,migration of server to aws CHG0610890"
+sgagc9004.srv.allianz,2.175179211,"Planned outage ,migration of server to aws CHG0610890"
+slb11227.srv.allianz,2.199447431,Server Created Recently
+slb16511.srv.allianz,2.212888292,Server decommissioned on 29th July 
+slc12832.srv.allinz,2.357377539,"Server '	In Maintenance"" Mode "
+slc12938,2.365218041,"Server '	In Maintenance"" Mode "
+slb11213.srv.allianz,2.365218041,Server not showing on CMDB 
+slb11185.srv.allianz,2.517174432,Server not showing on CMDB 
+sla71360.srv.allianz,2.615367384,Server created on 23rd July
+slb27746.srv.allianz,2.619100956,Server on retired state on CMDB
+slc12821.srv.allianz,2.737828554,Server not showing on console 
+slc13835,2.748282557,Server on retired state on CMDB
+slb11224.srv.allianz,2.794578853,Server not showing on CMDB 
+slb27777.srv.allianz,2.857676225,Server on retired state on CMDB
+sgagc9004.srv.allianz,2.916293309,"Planned outage ,migration of server to aws CHG0610890"
+slb27783.srv.allianz,3.012619474,Server on retired state on CMDB
+slb27782.srv.allianz,3.037634409,Server on retired state on CMDB
+slc13222,3.040994624,Server Schedulled for autoshutdown/start as part of cost optimization
+slc12603.srv.allianz,3.542786738,"DR server on stopped state ,Hence planned outage "
+slb11194.srv.allianz,3.55734767,Server not available on CMDB 
+slb27743.srv.allianz,3.625298686,Server on retired state on CMDB
+slc12349,3.841099164,Server on stopped state
+sgagc9004.srv.allianz,4.071460573,"Planned outage ,migration of server to aws CHG0610890"
+slb27474.srv.allianz,4.735663082,"Server was on maintanance mode till last July,MNT0025248"
+slb27780.srv.allianz,4.948476703,Server on shutdown state till 2nd AUG 
+slb23827.srv.allianz,5.143369176,Server on retired state on CMDB
+slb24506.srv.allianz,5.150089606,Server on retired state on CMDB
+sgagc9004.srv.allianz,5.250896057,"Planned outage ,migration of server to aws CHG0610890"
+slb27776.srv.allianz,5.288978495,Server on retired state on CMDB
+sgagc9004.srv.allianz,5.380824373,"Planned outage ,migration of server to aws CHG0610890"
+slb27714.srv.allianz,5.408826165,Server on retired state on CMDB
+slc12822,5.503285544,Server on shutdown state 
+slc13221,5.681376941,Server on shutdown state 
+slb27774.srv.allianz,5.709005376,Server on retired state on CMDB
+slc13223,5.785543608,Server on shutdown state 
+slc12605,6.035319594,DR server on shutdown state 
+slb11199.srv.allianz,6.051373955,server not on CMDB 
+slb16451.srv.allianz,6.889560932,Server on retired state on CMDB
+slb16452.srv.allianz,6.896654719,Server on retired state on CMDB
+sgagc9004.srv.allianz,6.998207885,"Planned outage ,migration of server to aws CHG0610890"
+slc02428,7.09453405,server not on CMDB 
+slc13080,7.206914576,"DR Server ,On shutdown state "
+slb16442.srv.allianz,7.219982079,server not on CMDB 
+slb27718.srv.allianz,7.51754779,Retired state on CMDB 
+sgagc9004.agcsropus-vpc-fbrb4-dxootrhunho.ase1.aws.aztec.cloud.allianz,7.551523297,"Planned outage ,migration of server to aws CHG0610890"
+slc13697,7.914426523,Retired state on CMDB 
+slb27772.srv.allianz,8.522625448,Retired state on CMDB 
+slc13825,8.529345878,Stopped state 
+sla80501.srv.allianz,8.58161589,"Server running for last 31 days,no outage found "
+slb27770.srv.allianz,8.752240143,Retired state on CMDB 
+slc13068,8.947879331,Server on shutdown state 
+slc13069,9.05167264,Server on shutdown state 
+slc12419.fltrnsfr.fc1.azure.aztec.cloud.allianz,9.094235364,Server up and running fine for last 26 days 
+slb27721.srv.allianz,9.102449223,Retired state on CMDB 
+slc13081,9.152479092,DR server on shutdown state 
+slc12420.fltrnsfr-we1.we1.azure.aztec.cloud.allianz,9.221550179,"SFTP server ,faced filesystem error "
+slb27767.srv.allianz,10.6712963,Decommissioned server 
+slc13962,11.12305854,Server created recently
+slc13961,11.26120072,Server on stopped state 
+slc13963,11.28285544,Server created recently
+sla23757.srv.allianz,11.33699223,"Server running fine ,only patching outage happened "
+slc13962,11.41203704,Server on inactive state 
+slc13960,11.51209677,Server on shutdown state till July 28th 
+slb11182.srv.allianz,11.79136798,Server not on CMDB 
+sgagc9004.srv.allianz,11.91532258,"Planned outage ,migration of server to aws CHG0610890"
+slb27714.srv.allianz,12.12664277,Retired server 
+slb16454.srv.allianz,12.24574373,Retired server 
+slc13783,12.46565114,Retired server 
+slc13626,12.60902031,server on stopped state as part of cost optimization
+slc02427,16.49865591,Server not on cmdb 
+slb27714.srv.allianz,16.50649642,Retired server 
+slb16496.srv.allianz,16.55577957,Server decommissione on 28th july 
+slc13957,16.99186081,server created recently
+slc13956,17.01164875,server created recently
+slc13621,17.5436828,"Pacemaker test server ,Planned activity ,Disabled alert "
+slc13719,18.36730884,Server on shutdown state 
+sgagc9004.srv.allianz,18.83848566,"Planned outage ,migration of server to aws CHG0610890"
+slb11214.srv.allianz,18.8896356,Server not on Vcenter 
+slc05656,19.71811529,Server created on 26th july 
+slb16423.srv.allianz,20.18145161,server retired 
+slb16420.srv.allianz,20.19265233,server retired 
+slc13832,20.44802867,server retired 
+slc13955,20.97371565,Server created recently 
+slc13954,20.97371565,Server created recently 
+sla20635.srv.allianz,21.06854839,server retired 
+sla20636.srv.allianz,21.07078853,server retired 
+slb27016.srv.allianz,21.84326464,server retired 
+slc13846,22.30846774,server Retired 
+slb27743.srv.allianz,22.39695341,server Retired 
+slc13783,22.86962366,server Retired 
+slb23964.srv.allianz,24.2458184,Server started after 26th July 
+slb20633.srv.allianz,24.40188172,server Retired 
+slb16489.srv.allianz,24.73715651,Server decommissioned on 30th July
+slc13948,24.78606631,Server recently created 
+slc13947,24.79166667,Server recently created 
+slb16502.srv.allianz,25.41367981,Server decommissioned on 30th July
+slc05654,25.4364546,Server recently created 
+slb27757.srv.allianz,25.54286141,server Retired 
+slc05617,26.84811828,server Retired 
+slc13944,27.21923536,Server recently created 
+slc13942,28.05630227,Server recently created 
+slc13941,28.07235663,Server recently created 
+slc13940,28.07945042,Server recently created 
+slc13939,28.10745221,Server recently created 
+slc13938,28.12798686,Server recently created 
+slc13937,28.140681,Server recently created 
+slc13936,28.16084229,Server recently created 
+slc13935,28.1843638,Server recently created 
+slc02449,28.42219235,Server recently created 
+slc13774,29.80734767,server Retired 
+slc05619,29.95071685,server Retired 
+slc11705.gisapps-d.fc1.azure.aztec.cloud.allianz,30.2296147,
+slc11706.gisapps-d.fc1.azure.aztec.cloud.allianz,30.23969534,
+sla16089.srv.allianz,30.2426822,
+slb27586.srv.allianz,30.26583035,
+slc13932,30.38567802,
+slc13930,30.4338411,
+slc13929,30.45400239,
+slc13928,30.46333632,
+slc13927,30.47715054,
+slc13904,30.81391876,
+slc13903,30.89008363,
+sla92707.srv.allianz,32.52688172,
+sgagc0030.srv.allianz,32.77628435,
+sgagc0033.srv.allianz,32.77740442,
+sgagc0031.srv.allianz,32.77777778,
+sgagc0034.srv.allianz,32.78001792,
+sgagc0032.srv.allianz,32.78412485,
+sgagc0036.srv.allianz,32.79121864,
+sgagc0035.srv.allianz,32.79121864,
+slb22049.srv.allianz,32.79345878,
+slc13623,33.32959976,
+slb27703.srv.allianz,33.40688471,
+slb27748.srv.allianz,33.42853943,
+slb27749.srv.allianz,33.43787336,
+slc13924,33.43862007,
+slc13923,33.442727,
+slc13922,33.47371565,
+slc13921,33.55286738,
+slc02422,33.72983871,
+slc13919.saphcmrise-p.we1.azure.aztec.cloud.allianz,34.08191458,
+slb11203.srv.allianz,36.92502987,
+slb24137.srv.allianz,36.94556452,
+slc13824,38.08691756,
+slc13806,38.81123059,
+slc13745,39.80996117,
+slc13750,39.81257467,
+slc13742,39.8140681,
+slc13604,39.81444146,
+slc13575,39.81518817,
+slc13150,39.81518817,
+slc13663,39.81556153,
+slc13741,39.81593489,
+slc12343.srv.allianz,39.83908303,
+slc12346.srv.allianz,39.84393668,
+slc13584,39.84804361,
+slc13744,39.84916368,
+slc13587,39.84953704,
+slc13752,39.84991039,
+slc13751,39.85028375,
+slc13743,39.85215054,
+slc12879,39.8551374,
+slc13151,39.85999104,
+slc13634,39.9432497,
+slc13638,39.96826464,
+slc13909,41.25746714,
+sla18305.srv.allianz,42.25395759,
+slb24483.srv.allianz,43.08691756,
+slb24482.srv.allianz,43.08691756,
+slc02448,43.27284946,
+slc13913,43.51889188,
+slb25986.srv.allianz,43.54166667,
+slc13912,43.67644863,
+slb11209.srv.allianz,43.68204898,
+slc13737,43.73655914,
+slc13911,43.8302718,
+slc13910,43.8582736,
+slb27579.srv.allianz,44.36641278,
+slb11207.srv.allianz,44.58968041,
+slc12859,46.01217145,
+slc12966,46.01739845,In maintenance
+slc12860,46.01814516,
+slc13605,46.02859916,
+slc12884,46.02934588,
+slc12856,46.03083931,
+slc12885,46.03419952,
+slc13581,46.03718638,
+slc12878,46.03830645,
+slb23983.srv.allianz,46.23245221,
+slc13907,46.52516428,
+slc13905,46.53188471,
+slc13906,46.53785842,
+slb27583.srv.allianz,46.95676523,
+slb11204.srv.allianz,47.45482378,
+slc13017,47.75089606,In maintenance
+slc13065,47.75201613,
+slc12794,47.77815114,In maintenance
+slc13067,47.78039128,
+slc12348,47.78188471,
+slc12940,47.78263142,In maintenance
+slc10160,48.3598417,Retired
+ovd88202.cdg.oci.aztec.cloud.allianz,48.45990143,Not manage by HC-Linux team.
+slc13021,48.58572282,In maintenance
+slc13898,49.76553166,
+slc12457,49.97237157,
+sla18217.srv.allianz,50.42525388,
+slb11197.srv.allianz,50.74783453,
+sla82047.srv.allianz,51.02374552,
+slb27732.srv.allianz,52.91330645,
+slc02435,53.3213859,
+slc13891,53.33445341,
+slc13890,53.34341398,
+slc13889,53.54390681,
+slc05479.srv.allianz,53.62903226,
+slc05501.srv.allianz,53.64023297,
+slc05502.srv.allianz,53.64247312,
+slc05464,53.65367384,
+slc05480.srv.allianz,53.65591398,
+slc05526.srv.allianz,53.65964755,
+slc05525.srv.allianz,53.66599462,
+slc05518.srv.allianz,53.67831541,
+slc05504,53.67831541,
+slc05503,53.67831541,
+slc05465,53.67831541,
+slb27729.srv.allianz,53.85267324,
+slb11193.srv.allianz,53.92846476,
+ovd83102.fra.oci.aztec.cloud.allianz,54.30032855,Not manage by HC-Linux team.
+slc13698.srv.allianz,55.96699522,
+slc12723,56.32168459,Retired
+slc13281,56.32579152,Retired
+slb16479.srv.allianz,56.91046894,
+ovd83101.fra.oci.aztec.cloud.allianz,57.17107228,Not manage by HC-Linux team.
+slc13821,58.68914277,
+slb16477.srv.allianz,61.36835424,
+ovd83202.fra.oci.aztec.cloud.allianz,64.42278973,Not manage by HC-Linux team.
+slb26980.srv.allianz,65.23521505,
+ovd83201.fra.oci.aztec.cloud.allianz,65.34386201,Not manage by HC-Linux team.
+slc13875,66.3250448,
+mapolnprecomp,66.82571685,
+sla92707.srv.allianz,67.0120221,
+slb22049.srv.allianz,67.18824671,
+sgagc0035.srv.allianz,67.18862007,
+sgagc0036.srv.allianz,67.19384707,
+sgagc0033.srv.allianz,67.19982079,
+sgagc0030.srv.allianz,67.2005675,
+sgagc0032.srv.allianz,67.20094086,
+sgagc0034.srv.allianz,67.20243429,
+sgagc0031.srv.allianz,67.203181,
+slc12083,69.29808841,Retired
+sla20983.srv.allianz,69.52359618,
+slc11705.gisapps-d.fc1.azure.aztec.cloud.allianz,69.7057945,
+slc11706.gisapps-d.fc1.azure.aztec.cloud.allianz,69.72110215,
+sla86993.srv.allianz,71.22759857,
+slb27127.srv.allianz,72.06242533,
+slc13863,72.43242234,
+slc13862,72.48618578,
+slc12714,75.60259857,Retired
+slb24841.srv.allianz,75.67353644,
+slc11880.helix1.fc1.azure.aztec.cloud.allianz,75.6869773,
+slc13859,76.03270609,
+slc13858,76.06332139,
+slc13855,76.12791219,
+slc13853,76.14994026,
+sla22620.srv.allianz,76.41726404,
+ovd88201.cdg.oci.aztec.cloud.allianz,76.49118877,Not manage by HC-Linux team.
+sla18221.srv.allianz,80.15382318,
+slb27644.srv.allianz,80.90389785,
+slc11640.srv.allianz,81.95676523,
+sla18220.srv.allianz,83.24335424,
+slc12854.srv.allianz,84.65837814,
+ovd85302.fra.oci.aztec.cloud.allianz,87.09826762,Not manage by HC-Linux team.
+ovd94301.fra.oci.aztec.cloud.allianz,87.807273,Not manage by HC-Linux team.
+slc11870.helix1.fc1.azure.aztec.cloud.allianz,87.83564815,
+slc13783,88.28703704,Retired
+ovd85101.fra.oci.aztec.cloud.allianz,88.33109319,Not manage by HC-Linux team.
+ovd94101.fra.oci.aztec.cloud.allianz,88.39232378,Not manage by HC-Linux team.
+ovd94102.fra.oci.aztec.cloud.allianz,88.44944743,Not manage by HC-Linux team.
+ovd85102.fra.oci.aztec.cloud.allianz,88.50246416,Not manage by HC-Linux team.
+slc11642.srv.allianz,88.50582437,
+sla22621.srv.allianz,88.83064516,
+slb21582.srv.allianz,89.77486559,
+sla81930.srv.allianz,89.82302867,
+slc12420.fltrnsfr-we1.we1.azure.aztec.cloud.allianz,89.91076762,
+slc12419.fltrnsfr-we1.we1.azure.aztec.cloud.allianz,90.01269415,
+slc12462,90.19675926,
+slc12463,90.20049283,
+sla25738.srv.allianz,91.26904122,
+slb27701.srv.allianz,91.31869773,
+sla25739.srv.allianz,91.41651732,
+ovd94202.fra.oci.aztec.cloud.allianz,91.50089606,Not manage by HC-Linux team.
+ovd94201.fra.oci.aztec.cloud.allianz,91.58415472,Not manage by HC-Linux team.
+ovd85301.fra.oci.aztec.cloud.allianz,91.7047491,Not manage by HC-Linux team.
+slb27699.srv.allianz,92.31108124,
+sla22671.srv.allianz,92.42682198,
+ovd93301.cdg.oci.aztec.cloud.allianz,92.5619773,Not manage by HC-Linux team.
+ovd89302.fra.oci.aztec.cloud.allianz,92.60976703,Not manage by HC-Linux team.
+ovd89301.fra.oci.aztec.cloud.allianz,92.61387395,Not manage by HC-Linux team.
+ovd93302.cdg.oci.aztec.cloud.allianz,92.61984767,Not manage by HC-Linux team.
+slb27696.srv.allianz,92.63366189,
+ovd89102.fra.oci.aztec.cloud.allianz,92.63888889,Not manage by HC-Linux team.
+ovd84201.cdg.oci.aztec.cloud.allianz,92.63926225,Not manage by HC-Linux team.
+ovd89202.fra.oci.aztec.cloud.allianz,92.64374253,Not manage by HC-Linux team.
+ovd89101.fra.oci.aztec.cloud.allianz,92.64411589,Not manage by HC-Linux team.
+ovd89201.fra.oci.aztec.cloud.allianz,92.64934289,Not manage by HC-Linux team.
+ovd84402.cdg.oci.aztec.cloud.allianz,92.65307646,Not manage by HC-Linux team.
+ovd84401.cdg.oci.aztec.cloud.allianz,92.65830346,Not manage by HC-Linux team.
+ovd90102.cdg.oci.aztec.cloud.allianz,92.66315711,Not manage by HC-Linux team.
+ovd90101.cdg.oci.aztec.cloud.allianz,92.67062425,Not manage by HC-Linux team.
+ovd84202.cdg.oci.aztec.cloud.allianz,92.68667861,Not manage by HC-Linux team.
+ovd85201.fra.oci.aztec.cloud.allianz,93.10969235,Not manage by HC-Linux team.
+slc11318,93.98857527,Ping check alert issue.
+ovd81102.cdg.oci.aztec.cloud.allianz,94.00985663,Not manage by HC-Linux team.
+ovd81101.cdg.oci.aztec.cloud.allianz,94.20437575,Not manage by HC-Linux team.
+sla80734.srv.allianz,94.61842891,Part of patching activity 
+slb21604.srv.allianz,94.80846774,Part of patching activity 
+slb27693.srv.allianz,95.63097372,
+slc12970.srv.allianz,95.83706691,Part of patching activity 
+ovd80302.fra.oci.aztec.cloud.allianz,95.90277778,Not manage by HC-Linux team.
+sla95616.srv.allianz,96.06220131,Part of patching activity 
+sla95634.srv.allianz,96.06369474,Part of patching activity 
+sla95630.srv.allianz,96.06630824,Part of patching activity 
+sla95633.srv.allianz,96.06705496,Part of patching activity 
+sla96729.srv.allianz,96.07601553,Part of patching activity 
+sla18219.srv.allianz,96.20034349,Part of patching activity 
+ovd80301.fra.oci.aztec.cloud.allianz,96.63455795,Not manage by HC-Linux team.
+slb21606.srv.allianz,96.69205496,Part of patching activity 
+slb23960.srv.allianz,96.73312425,Part of patching activity 
+slc13842,96.78054062,
+slc13841,96.92316308,
+slc12169.srv.allianz,97.02844982,Part of patching activity 
+slc13170.srv.allianz,97.16099164,Part of patching activity 
+slb27581.srv.allianz,97.21027479,
+slc13840,97.76695042,
+ovd87202.cdg.oci.aztec.cloud.allianz,97.78897849,Not manage by HC-Linux team.
+slc13839,97.81996714,
+ovd81302.cdg.oci.aztec.cloud.allianz,97.88119773,Not manage by HC-Linux team.
+sla87355.srv.allianz,97.93608124,Ping check alert issue.
+slc13305,97.93720131,
+slc12972.srv.allianz,98.02531362,Ping check alert issue.
+sla21229.srv.allianz,98.08019713,Server retired
+sla20799.srv.allianz,98.12873357,Server retired
+slc11333,98.19071087,Ping check alert issue.
+ovd88102.cdg.oci.aztec.cloud.allianz,98.28778375,Not manage by HC-Linux team.
+sla99361.srv.allianz,98.35125448,
+ovd94302.fra.oci.aztec.cloud.allianz,98.45616786,Not manage by HC-Linux team.
+slb27691.srv.allianz,98.46288829,
+ovd92302.cdg.oci.aztec.cloud.allianz,98.48790323,Not manage by HC-Linux team.
+ovd88101.cdg.oci.aztec.cloud.allianz,98.52299881,Not manage by HC-Linux team.
+ovd91102.fra.oci.aztec.cloud.allianz,98.56481481,Not manage by HC-Linux team.
+slc12123,98.59767025,Ping check alert issue.
+ovd88301.cdg.oci.aztec.cloud.allianz,98.62529869,Not manage by HC-Linux team.
+ovd85202.fra.oci.aztec.cloud.allianz,98.66748805,Not manage by HC-Linux team.
+ovd85401.fra.oci.aztec.cloud.allianz,98.67010155,Not manage by HC-Linux team.
+ovd85402.fra.oci.aztec.cloud.allianz,98.69511649,Not manage by HC-Linux team.
+slc12968.srv.allianz,98.71117085,Ping check alert issue.
+slb27689.srv.allianz,98.72162485,
+slc13838,98.76978793,
+slc05651,98.77501493,
+ovd88302.cdg.oci.aztec.cloud.allianz,98.79666965,Not manage by HC-Linux team.
+ovd91101.fra.oci.aztec.cloud.allianz,98.84296595,Not manage by HC-Linux team.
+slc13837,98.89075568,
+slc13836,98.91614397,
+slc12827,98.96580048,Ping check alert issue.
+sla30666.srv.allianz,98.9979092,Part of patching activity 
+ovd81301.cdg.oci.aztec.cloud.allianz,99.3130227,Not manage by HC-Linux team.
+sla97655.srv.allianz,99.32235663,Part of patching activity 
+ovd87101.cdg.oci.aztec.cloud.allianz,99.37014636,Not manage by HC-Linux team.
+ovd87201.cdg.oci.aztec.cloud.allianz,99.42577658,Not manage by HC-Linux team.
+sla18218.srv.allianz,99.4474313,
+sla85472.srv.allianz,99.46012545,Multiple load average INCs received 
+slb25803.srv.allianz,99.48999403,Part of patching activity 
+ovd92301.cdg.oci.aztec.cloud.allianz,99.54973118,Not manage by HC-Linux team.
+slb21603.srv.allianz,99.56951912,Part of patching activity 
+sla81012.srv.allianz,99.58520012,Part of patching activity 
+ovd93101.cdg.oci.aztec.cloud.allianz,99.64195042,Not manage by HC-Linux team.
+slb21934.srv.allianz,99.66696535,
+sla81194.srv.allianz,99.67816607,Ping check alert issue.
+sla81769.srv.allianz,99.68451314,Part of patching activity 
+sla29045.srv.allianz,99.72968937,
+slb24107.srv.allianz,99.76814516,Ping check alert issue.
+slc11609,99.8192951,Ping check alert issue.
+sla21892.srv.allianz,99.82004182,
+slc13323,99.82750896,Part of patching activity 
+slc11595,99.84879032,Part of patching activity 
+slb20272.srv.allianz,99.84991039,Part of patching activity 
+slb24177.srv.allianz,99.8655914,Part of patching activity 
+ovd87102.cdg.oci.aztec.cloud.allianz,99.86671147,Not manage by HC-Linux team.
+slb21134.srv.allianz,99.88201912,Part of patching activity 
+slc13433,99.89023297,Ping check alert issue.
+AUSUW1SRCPE1230.agcs.biz,99.8917264,Not manage by HC-Linux team.
+AUSUW1SRCPE1240.agcs.biz,99.89508662,Not manage by HC-Linux team.
+qs83734.agf.fr,99.89545998,Part of patching activity 
+ovd93102.cdg.oci.aztec.cloud.allianz,99.89583333,Not manage by HC-Linux team.
+slb27144.srv.allianz,99.90106033,Part of patching activity 
+su000004.srv.allianz,99.90442055,Ping check alert issue.
+ovd84101.cdg.oci.aztec.cloud.allianz,99.90815412,Not manage by HC-Linux team.
+sla81954.srv.allianz,99.91188769,Part of patching activity 
+slb25263.srv.allianz,99.91375448,Part of patching activity 
+sla30503.srv.allianz,99.91487455,Part of patching activity 
+slc13431,99.91524791,
+AUSUW1SRDB1490.agcs.biz,99.91562127,Not manage by HC-Linux team.
+sla18228.srv.allianz,99.92159498,Part of patching activity 
+sla82668.srv.allianz,99.92794205,Multiple load average INCs received 
+slc12332,99.92906213,Multiple load average INCs received 
+sla81816.srv.allianz,99.93055556,
+slc13644,99.93130227,Multiple uptime alert received
+sla27214.srv.allianz,99.93130227,Part of patching activity 
+slc13617,99.9327957,Multiple uptime alert received
+sla26439.srv.allianz,99.9354092,
+sla94572.srv.allianz,99.93839606,Part of patching activity 
+sla82672.srv.allianz,99.93839606,
+sla82670.srv.allianz,99.93839606,
+slc12534.sapcloud-1.we1.azure.aztec.cloud.allianz,99.93951613,Part of patching activity 
+sla94596.srv.allianz,99.9432497,Part of patching activity 
+sla98273.srv.allianz,99.94623656,Part of patching activity 
+slas0033.sapcloud.we1.azure.aztec.cloud.allianz,99.94922342,Part of patching activity 
+slc13582,99.94997013,Ping check alert issue.
+sla95498.srv.allianz,99.95034349,
+slc11901.srv.allianz,99.9510902,
+sla22475.srv.allianz,99.95295699,
+slb25605.srv.allianz,99.9537037,
+slc13753,99.95407706,
+slas0034.sapcloud.we1.azure.aztec.cloud.allianz,99.95407706,
+slb21121.srv.allianz,99.95407706,
+slc12731,99.95445042,
+slas0021.sapcloud.we1.azure.aztec.cloud.allianz,99.95557049,
+slb23041.srv.allianz,99.95594385,
+slc10365,99.9563172,
+sla82049.srv.allianz,99.95743728,
+slc11233,99.95743728,
+qs84094.agf.fr,99.95781063,
+slb27142.srv.allianz,99.95781063,
+slc13758.sapcloud.ne1.azure.aztec.cloud.allianz,99.95818399,
+slc12013.aml-symphony-d.we1.azure.aztec.cloud.allianz,99.95818399,
+sla94599.srv.allianz,99.95818399,
+sla82671.srv.allianz,99.95818399,
+sla85989.srv.allianz,99.95930406,
+sla98062.srv.allianz,99.95930406,
+sla98061.srv.allianz,99.95930406,
+slc10419.sapcloud.we1.azure.aztec.cloud.allianz,99.96005078,
+sla86574.srv.allianz,99.96079749,
+slc11651.srv.allianz,99.96117085,
+slc10376.sapcloud.we1.azure.aztec.cloud.allianz,99.96117085,
+slc12657.sapcloud-1.we1.azure.aztec.cloud.allianz,99.96154421,
+slas0019.sapcloud.we1.azure.aztec.cloud.allianz,99.96154421,
+sla21793.srv.allianz,99.96154421,
+sla14192.srv.allianz,99.96154421,
+sla81517.srv.allianz,99.96191756,
+slc11038.sapcloud.we1.azure.aztec.cloud.allianz,99.96191756,
+slc12250,99.96191756,
+slb25603.srv.allianz,99.96191756,
+sla14191.srv.allianz,99.96191756,
+sla82706.srv.allianz,99.96229092,
+sla13391.srv.allianz,99.96229092,
+qs83891.agf.fr,99.96229092,
+sla87023.srv.allianz,99.96229092,
+sla30681.srv.allianz,99.96229092,
+slas0046.sapcloud.we1.azure.aztec.cloud.allianz,99.96266428,
+sla90127.srv.allianz,99.96266428,
+slc12280,99.96303763,
+sla82669.srv.allianz,99.96303763,
+slc11636.amlmt2-t.fc1.azure.aztec.cloud.allianz,99.96341099,
+sla87024.srv.allianz,99.96341099,
+slb25211.srv.allianz,99.96378435,
+sla82705.srv.allianz,99.96378435,
+sla22488.srv.allianz,99.96378435,
+ovd84102.cdg.oci.aztec.cloud.allianz,99.96378435,Not manage by HC-Linux team.
+sla14643.srv.allianz,99.96378435,
+slc12172,99.96415771,
+slc11984,99.96415771,
+slc11652.srv.allianz,99.96415771,
+slc11885.srv.allianz,99.96453106,
+slc10949,99.96453106,
+sla81528.srv.allianz,99.96490442,
+sla25805.srv.allianz,99.96490442,
+slc11232,99.96490442,
+slb21599.srv.allianz,99.96490442,
+slb21144.srv.allianz (AllFinanz/ECM TST),99.96490442,
+slas0043.sapcloud.we1.azure.aztec.cloud.allianz,99.96490442,
+sla97349.srv.allianz,99.96490442,
+slb24391.srv.allianz,99.96527778,
+sla81720.srv.allianz,99.96527778,
+slc11749,99.96527778,
+sla97128.srv.allianz,99.96527778,
+slc12978.srv.allianz,99.96565114,
+slc11644.srv.allianz,99.96565114,
+sla80697.srv.allianz,99.96565114,
+slc13767.sapcloud.ne1.azure.aztec.cloud.allianz,99.96565114,
+sla86892.srv.allianz,99.96565114,
+sla86687.srv.allianz,99.96565114,
+sla78800,99.96565114,
+slc10487.sapcloud.we1.azure.aztec.cloud.allianz,99.96565114,
+slas0028.sapcloud.we1.azure.aztec.cloud.allianz,99.96602449,
+sla85419.srv.allianz,99.96602449,
+slc12784,99.96602449,
+slb23981.srv.allianz,99.96602449,
+sla94598.srv.allianz,99.96602449,
+sla92793.srv.allianz,99.96639785,
+sla86522.srv.allianz,99.96639785,
+slc11655.srv.allianz,99.96677121,
+sla81527.srv.allianz,99.96677121,
+slas0029.sapcloud.we1.azure.aztec.cloud.allianz,99.96714456,
+slc11650.srv.allianz,99.96714456,
+sla94216.srv.allianz,99.96714456,
+sla81479.srv.allianz,99.96714456,
+sla80786.srv.allianz (e2-il-baw-dev),99.96714456,
+slas0047.sapcloud.we1.azure.aztec.cloud.allianz,99.96714456,
+sla80296.srv.allianz,99.96714456,
+slas0041.sapcloud.we1.azure.aztec.cloud.allianz,99.96751792,
+slas0039.sapcloud.we1.azure.aztec.cloud.allianz,99.96751792,
+sla86527.srv.allianz,99.96751792,
+qs83729.agf.fr,99.96751792,
+slb22829.srv.allianz,99.96789128,
+slc12119,99.96789128,
+sla96997.srv.allianz,99.96789128,
+sla85445.srv.allianz,99.96826464,
+slc11647.srv.allianz,99.96826464,
+slc12969.srv.allianz,99.96863799,
+sla87044.srv.allianz,99.96863799,
+sla13725.srv.allianz,99.96863799,
+slas0031.sapcloud.we1.azure.aztec.cloud.allianz,99.96863799,
+sla96862.srv.allianz,99.96863799,
+slc13072,99.96901135,
+sla86957.srv.allianz,99.96901135,
+slc10999.sapcloud.we1.azure.aztec.cloud.allianz,99.96938471,
+slc11645.srv.allianz,99.96938471,
+sla86268.srv.allianz,99.96938471,
+sla86164.srv.allianz,99.96938471,
+sla81225.srv.allianz,99.96938471,
+slc13230,99.96938471,
+slb26612.srv.allianz,99.96938471,
+sla82673.srv.allianz,99.96938471,
+sla80801.srv.allianz,99.96938471,
+slc12967,99.96975806,
+slc12783,99.96975806,
+slc12958.srv.allianz,99.97013142,
+sla86688.srv.allianz,99.97013142,
+sla82681.srv.allianz,99.97013142,
+sla82692.srv.allianz,99.97050478,
+sla21873.srv.allianz,99.97050478,
+sla16090.srv.allianz,99.97050478,
+qs84015.agf.fr,99.97050478,
+sla99302.srv.allianz,99.97087814,
+sla80890.srv.allianz,99.97087814,
+slc12049.sapcloud-1.we1.azure.aztec.cloud.allianz,99.97087814,
+slc11654.srv.allianz,99.97087814,
+sla80907.srv.allianz,99.97087814,
+qs84016.agf.fr,99.97087814,
+slc11722,99.97125149,
+slb16296.srv.allianz,99.97125149,
+sla88570.srv.allianz,99.97125149,
+slc12045.sapcloud-1.we1.azure.aztec.cloud.allianz,99.97162485,
+slc11701.amlmt2-1.fc1.azure.aztec.cloud.allianz,99.97162485,
+slb23941.srv.allianz,99.97162485,
+sla22304.srv.allianz,99.97162485,
+allianz,99.97199821,
+slas0030.sapcloud.we1.azure.aztec.cloud.allianz,99.97199821,
+slc11085,99.97199821,
+slc13400,99.99103943,
+slc13395.aml-azd-prod-p.fc1.azure.aztec.cloud.allianz,99.99103943,
+slc13387,99.99103943,
+slc13384,99.99103943,
+slc13208,99.99103943,
+slc12690,99.99103943,
+slc12683,99.99103943,
+slc12445,99.99103943,
+slc12182,99.99103943,
+slc11953.sapcloud-1.we1.azure.aztec.cloud.allianz,99.99103943,
+slc11833,99.99103943,
+slc11631.srv.allianz,99.99103943,
+slc11278,99.99103943,
+slc11120,99.99103943,
+slc10644,99.99103943,
+slc10269,99.99103943,
+slb27276.srv.allianz,99.99103943,
+slb25881.srv.allianz,99.99103943,
+slb25217.srv.allianz,99.99103943,
+slb23955.srv.allianz,99.99103943,
+slb22745.srv.allianz,99.99103943,
+sla98327.srv.allianz,99.99103943,
+sla97636.srv.allianz,99.99103943,
+sla94592.srv.allianz,99.99103943,
+slc12835,99.99141278,
+slc12637.amlmt3-prod.fc1.azure.aztec.cloud.allianz,99.99141278,
+slc12447.sapcloud-1.we1.azure.aztec.cloud.allianz,99.99141278,
+slc12444,99.99141278,
+slc12121,99.99141278,
+slc11748,99.99141278,
+slc11739,99.99141278,
+slc11474,99.99141278,
+slc11331,99.99141278,
+slc10934,99.99141278,
+slc10884,99.99141278,
+slb26636.srv.allianz,99.99141278,
+slb26625.srv.allianz,99.99141278,
+slb25917.srv.allianz,99.99141278,
+slb25472.srv.allianz,99.99141278,
+slb25309.srv.allianz,99.99141278,
+slb25119.srv.allianz,99.99141278,
+slb24516.srv.allianz,99.99141278,
+slb22753.srv.allianz,99.99141278,
+sla99146.srv.allianz,99.99141278,
+sla95733.srv.allianz - its_esb-ems-dev,99.99141278,
+sla93465.srv.allianz,99.99141278,
+sla91712.srv.allianz,99.99141278,
+sla85988.srv.allianz,99.99141278,
+sla82691.srv.allianz,99.99141278,
+sla81243.srv.allianz,99.99141278,
+sla19323.srv.allianz,99.99141278,
+sla19322.srv.allianz,99.99141278,
+slc13738,99.99141278,
+slc13383,99.99141278,
+slc13192.aml-azd-prod-p.fc1.azure.aztec.cloud.allianz,99.99141278,
+slc13094,99.99141278,
+slc12857,99.99141278,
+slc12439,99.99141278,
+slc12225.srv.allianz,99.99141278,
+slc12106,99.99141278,
+slc11688,99.99141278,
+slc11537,99.99141278,
+slc11450,99.99141278,
+slc11359,99.99141278,
+slb27337.srv.allianz,99.99141278,
+slb27333.srv.allianz,99.99141278,
+slb24392.srv.allianz,99.99141278,
+slb23201.srv.allianz,99.99141278,
+slb23197.srv.allianz,99.99141278,
+slb22646.srv.allianz,99.99141278,
+slb22462.srv.allianz,99.99141278,
+sla98628.srv.allianz,99.99141278,
+sla96999.srv.allianz,99.99141278,
+sla86764.srv.allianz,99.99141278,
+sla85701.srv.allianz,99.99141278,
+sla82051.srv.allianz,99.99141278,
+sla80503.srv.allianz,99.99141278,
+sla70004,99.99141278,Retired
+sla29452.srv.allianz,99.99141278,
+sla21111.srv.allianz,99.99141278,
+sla20976.srv.allianz,99.99141278,
+sla20975.srv.allianz,99.99141278,
+sla19296.srv.allianz,99.99141278,
+sla18258.srv.allianz,99.99141278,
+sla18222.srv.allianz,99.99141278,
+sla15212.srv.allianz,99.99141278,
+slc13607,99.99178614,
+slc11311,99.99178614,
+slc11211,99.99178614,
+slc10869,99.99178614,
+slc10685,99.99178614,
+slb27336.srv.allianz,99.99178614,
+slb23924.srv.allianz,99.99178614,
+sla96431.srv.allianz,99.99178614,
+sla94321.srv.allianz,99.99178614,
+sla86168.srv.allianz,99.99178614,
+sla19314.srv.allianz,99.99178614,
+slc11427,99.99178614,
+slc11382.srv.allianz,99.99178614,
+slc13610,99.99178614,
+slc13403,99.99178614,
+slc13399,99.99178614,
+slc13394,99.99178614,
+slc13382,99.99178614,
+slc13090,99.99178614,
+slc13087,99.99178614,
+slc12730.sapcloud.we1.azure.aztec.cloud.allianz,99.99178614,
+slc11907.srv.allianz,99.99178614,
+slc11836,99.99178614,
+slc11619.amlmt2-t.fc1.azure.aztec.cloud.allianz,99.99178614,
+slc11526,99.99178614,
+slc11420.sapcloud.we1.azure.aztec.cloud.allianz,99.99178614,
+slc11121,99.99178614,
+slc11025,99.99178614,
+slc10654,99.99178614,
+slc10413,99.99178614,
+slb27335.srv.allianz,99.99178614,
+slb27327.srv.allianz,99.99178614,
+slb27221.srv.allianz,99.99178614,
+slb26520.srv.allianz,99.99178614,
+slb26463.srv.allianz,99.99178614,
+slb25998.srv.allianz,99.99178614,
+slb25771.srv.allianz,99.99178614,
+slb25751.srv.allianz,99.99178614,
+slb25443.srv.allianz,99.99178614,
+slb25208.srv.allianz,99.99178614,
+slb25148.srv.allianz,99.99178614,
+slb25147.srv.allianz,99.99178614,
+slb24977.srv.allianz,99.99178614,
+slb24961.srv.allianz,99.99178614,
+slb23956.srv.allianz,99.99178614,
+slb23881.srv.allianz,99.99178614,
+slas0017,99.99178614,
+sla99356.srv.allianz,99.99178614,
+sla99305.srv.allianz,99.99178614,
+sla99153.srv.allianz,99.99178614,
+sla99125.srv.allianz,99.99178614,
+sla99124.srv.allianz,99.99178614,
+sla96422.srv.allianz,99.99178614,
+sla95727.srv.allianz - its_esb-admin-dev,99.99178614,
+sla95160.srv.allianz,99.99178614,
+sla92284.srv.allianz,99.99178614,
+sla88120.srv.allianz,99.99178614,
+sla86869.srv.allianz,99.99178614,
+sla86124.srv.allianz,99.99178614,
+sla82697.srv.allianz,99.99178614,
+sla81193.srv.allianz,99.99178614,
+sla80633.srv.allianz,99.99178614,
+sla80548.srv.allianz,99.99178614,
+sla80543.srv.allianz,99.99178614,
+sla80541.srv.allianz,99.99178614,
+sla80352.srv.allianz,99.99178614,
+sla31152.srv.allianz,99.99178614,
+sla30803.srv.allianz,99.99178614,
+sla27216.srv.allianz,99.99178614,
+sla26998.srv.allianz,99.99178614,
+sla26042.srv.allianz,99.99178614,
+sla20490.srv.allianz,99.99178614,
+sla15223.srv.allianz,99.99178614,
+sla14188.srv.allianz,99.99178614,
+sla13483.srv.allianz,99.99178614,
+sla12475.srv.allianz,99.99178614,
+phpnb0124.srv.allianz,99.99178614,
+ovd84302.cdg.oci.aztec.cloud.allianz,99.99178614,Not manage by HC-Linux team.
+cpfe1021,99.99178614,
+azframa1,99.99178614,
+slc13601,99.9921595,
+slc13455,99.9921595,
+slc12760.aml-azd-stg-uat-p.gwc1.azure.aztec.cloud.allianz,99.9921595,
+slc12307,99.9921595,
+slc11483,99.9921595,
+slc11355,99.9921595,
+slc11267.amlmt2-t.fc1.azure.aztec.cloud.allianz,99.9921595,
+slc10947,99.9921595,
+slc10887,99.9921595,
+slc10870,99.9921595,
+slc10081.sapcloud.we1.azure.aztec.cloud.allianz,99.9921595,
+slb27077.srv.allianz,99.9921595,
+slb26895.srv.allianz,99.9921595,
+slb26519.srv.allianz,99.9921595,
+slb26507.srv.allianz,99.9921595,
+slb26364.srv.allianz,99.9921595,
+slb25328.srv.allianz,99.9921595,
+slb25162.srv.allianz,99.9921595,
+slb23879.srv.allianz,99.9921595,
+slb23853.srv.allianz (ES),99.9921595,
+slb22249.srv.allianz,99.9921595,
+slb21659.srv.allianz,99.9921595,
+slas0026.sapcloud.we1.azure.aztec.cloud.allianz,99.9921595,
+sla99759.srv.allianz (ES),99.9921595,
+sla99621.srv.allianz,99.9921595,
+sla99222.srv.allianz,99.9921595,
+sla96416.srv.allianz,99.9921595,
+sla95572.srv.allianz,99.9921595,
+sla95159.srv.allianz,99.9921595,
+sla94322.srv.allianz,99.9921595,
+sla94249.srv.allianz,99.9921595,
+sla94220.srv.allianz,99.9921595,
+sla93830.srv.allianz,99.9921595,
+sla89253.srv.allianz,99.9921595,
+sla86569.srv.allianz,99.9921595,
+sla82667.srv.allianz,99.9921595,
+sla81152.srv.allianz,99.9921595,
+sla80735.srv.allianz,99.9921595,
+sla80698.srv.allianz,99.9921595,
+sla80302.srv.allianz,99.9921595,
+sla31912.srv.allianz,99.9921595,
+sla31153.srv.allianz,99.9921595,
+sla26504.srv.allianz,99.9921595,
+sla22491.srv.allianz,99.9921595,
+sla21044.srv.allianz,99.9921595,
+sla20980.srv.allianz,99.9921595,
+sla19315.srv.allianz,99.9921595,
+sla19293.srv.allianz,99.9921595,
+sla15220.srv.allianz,99.9921595,
+slc13562,99.9921595,
+slc13423,99.9921595,
+slc13385,99.9921595,
+slc13247,99.9921595,
+slc13200.srv.allianz,99.9921595,
+slc12363,99.9921595,
+slc12159.aml-symphony-preprod-p.fc1.azure.aztec.cloud.allianz,99.9921595,
+slc11608,99.9921595,
+slc11426,99.9921595,
+slc11305.sapcloud.we1.azure.aztec.cloud.allianz,99.9921595,
+slc10674,99.9921595,
+slb25770.srv.allianz,99.9921595,
+slb24051.srv.allianz,99.9921595,
+slb22467.srv.allianz,99.9921595,
+sla80785.srv.allianz,99.9921595,
+slc13313,99.99253286,
+slc13182.srv.allianz,99.99253286,
+slc12620.srv.allianz,99.99253286,
+slc12446,99.99253286,
+slc12279,99.99253286,
+slc12223,99.99253286,
+slc11408,99.99253286,
+slc11354,99.99253286,
+slc11188.sapcloud-1.we1.azure.aztec.cloud.allianz,99.99253286,
+slc11010,99.99253286,
+slc10873,99.99253286,
+slc10687,99.99253286,
+slb27318.srv.allianz,99.99253286,
+slb27303.srv.allianz,99.99253286,
+slb27292.srv.allianz,99.99253286,
+slb27090.srv.allianz,99.99253286,
+slb27030.srv.allianz,99.99253286,
+slb26887.srv.allianz,99.99253286,
+slb26588.srv.allianz,99.99253286,
+slb26407.srv.allianz (TLS SCAN- Deloitte),99.99253286,
+slb25999.srv.allianz,99.99253286,
+slb25712.srv.allianz,99.99253286,
+slb25527.srv.allianz,99.99253286,
+slb25380.srv.allianz,99.99253286,
+slb24311.srv.allianz (FTH),99.99253286,
+slb23938.srv.allianz,99.99253286,
+slb22514.srv.allianz,99.99253286,
+slb22395.srv.allianz,99.99253286,
+slb21538.srv.allianz,99.99253286,
+slb21345.srv.allianz,99.99253286,
+slb20029.srv.allianz,99.99253286,
+sla99909.srv.allianz,99.99253286,
+sla98629.srv.allianz,99.99253286,
+sla97803.srv.allianz,99.99253286,
+sla96428.srv.allianz,99.99253286,
+sla95182.srv.allianz,99.99253286,
+sla94223.srv.allianz,99.99253286,
+sla94211.srv.allianz,99.99253286,
+sla87816.srv.allianz,99.99253286,
+sla86170.srv.allianz,99.99253286,
+sla86166.srv.allianz,99.99253286,
+sla85475.srv.allianz,99.99253286,
+sla80844.srv.allianz (MediaWiki),99.99253286,
+sla80119.srv.allianz,99.99253286,
+sla22492.srv.allianz,99.99253286,
+sla17251.srv.allianz,99.99253286,
+sla14655.srv.allianz,99.99253286,
+ovd92201.cdg.oci.aztec.cloud.allianz,99.99253286,Not manage by HC-Linux team.
+ovd84301.cdg.oci.aztec.cloud.allianz,99.99253286,Not manage by HC-Linux team.
+slc11129,99.99253286,
+slc10732,99.99253286,
+slb27560.srv.allianz,99.99253286,
+slb26454.srv.allianz,99.99253286,
+slb25761.srv.allianz,99.99253286,
+slb25475.srv.allianz,99.99253286,
+slb25379.srv.allianz,99.99253286,
+slb25329.srv.allianz,99.99253286,
+slb24831.srv.allianz,99.99253286,
+slb24772.srv.allianz,99.99253286,
+slb24178.srv.allianz,99.99253286,
+slb23287.srv.allianz,99.99253286,
+slb23231.srv.allianz,99.99253286,
+slb23203.srv.allianz,99.99253286,
+slb23190.srv.allianz,99.99253286,
+slb22527.srv.allianz,99.99253286,
+slb22505.srv.allianz,99.99253286,
+sla96415.srv.allianz,99.99253286,
+sla95519.srv.allianz,99.99253286,
+sla86587.srv.allianz,99.99253286,
+sla86585.srv.allianz,99.99253286,
+sla86582.srv.allianz,99.99253286,
+sla86330.srv.allianz,99.99253286,
+sla80789.srv.allianz (e2-il-baw1),99.99253286,
+sla31315.srv.allianz,99.99253286,
+sla30785.srv.allianz,99.99253286,
+sla27656.srv.allianz,99.99253286,
+sla16583.srv.allianz,99.99253286,
+sla15214.srv.allianz,99.99253286,
+cpfe1026,99.99253286,
+sla86820.srv.allianz,99.99253286,
+sla81112.srv.allianz,99.99253286,
+sla80563.srv.allianz,99.99253286,
+slc13725,99.99290621,
+slc13713,99.99290621,
+slc12852.srv.allianz,99.99290621,
+slc11824.srv.allianz,99.99290621,
+slc11681.sapcloud-1.we1.azure.aztec.cloud.allianz,99.99290621,
+slc11639.srv.allianz,99.99290621,
+slc11532.srv.allianz,99.99290621,
+slc11530.srv.allianz,99.99290621,
+slc11308,99.99290621,
+slc11256.datau-prod.ec1.aws.aztec.cloud.allianz,99.99290621,
+slc11255.datau-dev.ec1.aws.aztec.cloud.allianz,99.99290621,
+slc11234,99.99290621,
+slc10998.sapcloud.we1.azure.aztec.cloud.allianz,99.99290621,
+slc10948,99.99290621,
+slc10790.sapcloud-1.we1.azure.aztec.cloud.allianz,99.99290621,
+slc10617,99.99290621,
+slc10577,99.99290621,
+slb27304.srv.allianz,99.99290621,
+slb25752.srv.allianz,99.99290621,
+slb25502.srv.allianz,99.99290621,
+slb25325.srv.allianz,99.99290621,
+slb25200.srv.allianz,99.99290621,
+slb25046.srv.allianz,99.99290621,
+slb24775.srv.allianz,99.99290621,
+slb24600.srv.allianz,99.99290621,
+slb23232.srv.allianz,99.99290621,
+slb23212.srv.allianz,99.99290621,
+slb23202.srv.allianz,99.99290621,
+slb23198.srv.allianz,99.99290621,
+slb22910.srv.allianz (Pricing UAT),99.99290621,
+slb22513.srv.allianz,99.99290621,
+sla99226.srv.allianz,99.99290621,
+sla98956.srv.allianz,99.99290621,
+sla95973.srv.allianz,99.99290621,
+sla95931.srv.allianz,99.99290621,
+sla94716.srv.allianz,99.99290621,
+sla88229.srv.allianz,99.99290621,
+sla88027.srv.allianz,99.99290621,
+sla86872.srv.allianz,99.99290621,
+sla86564.srv.allianz,99.99290621,
+sla86165.srv.allianz,99.99290621,
+sla81270.srv.allianz,99.99290621,
+sla81240.srv.allianz,99.99290621,
+sla81196.srv.allianz,99.99290621,
+sla80879.srv.allianz,99.99290621,
+sla80565.srv.allianz,99.99290621,
+sla80480.srv.allianz,99.99290621,
+sla80472.srv.allianz,99.99290621,
+sla80260.srv.allianz,99.99290621,
+sla80118.srv.allianz,99.99290621,
+sla80117.srv.allianz,99.99290621,
+sla30050.srv.allianz,99.99290621,
+sla27280.srv.allianz,99.99290621,
+sla26967.srv.allianz,99.99290621,
+sla12438.srv.allianz,99.99290621,
+slc12844,99.99290621,
+slc12581.aml-symphony-prod-p.we1.azure.aztec.cloud.allianz,99.99290621,
+slb23171.srv.allianz,99.99290621,
+sla95137.srv.allianz,99.99290621,
+sla93037.srv.allianz,99.99290621,
+sla85719.srv.allianz,99.99290621,
+sla30679.srv.allianz,99.99290621,
+sla25188.srv.allianz,99.99290621,
+sla14649.srv.allianz,99.99290621,
+slc13405,99.99290621,
+slc12157.aml-symphony-preprod-p.fc1.azure.aztec.cloud.allianz,99.99290621,
+slb26929.srv.allianz,99.99290621,
+slb26880.srv.allianz,99.99290621,
+slb26877.srv.allianz,99.99290621,
+slb26070.srv.allianz,99.99290621,
+slb25614.srv.allianz,99.99290621,
+slb25118.srv.allianz,99.99290621,
+slb23943.srv.allianz,99.99290621,
+slb23187.srv.allianz,99.99290621,
+sla96420.srv.allianz,99.99290621,
+sla94910.srv.allianz,99.99290621,
+sla92484.srv.allianz,99.99290621,
+sla27889.srv.allianz,99.99290621,
+ovd93201.cdg.oci.aztec.cloud.allianz,99.99290621,Not manage by HC-Linux team.
+slc13812,99.99327957,
+slc13721,99.99327957,
+slc13398,99.99327957,
+slc13381,99.99327957,
+slc13294,99.99327957,
+slc12956.sapcloud.ne1.azure.aztec.cloud.allianz,99.99327957,
+slc12876.srv.allianz,99.99327957,
+slc12085.sapcloud-1.we1.azure.aztec.cloud.allianz,99.99327957,
+slc11853,99.99327957,
+slc11834,99.99327957,
+slc11682.sapcloud-1.we1.azure.aztec.cloud.allianz,99.99327957,
+slc11635.srv.allianz,99.99327957,
+slc11535.srv.allianz,99.99327957,
+slc11481,99.99327957,
+slc11123,99.99327957,
+slb27088.srv.allianz,99.99327957,
+slb27085.srv.allianz,99.99327957,
+slb26881.srv.allianz,99.99327957,
+slb26506.srv.allianz,99.99327957,
+slb26068.srv.allianz,99.99327957,
+slb25356.srv.allianz,99.99327957,
+slb25331.srv.allianz,99.99327957,
+slb25232.srv.allianz,99.99327957,
+slb23969.srv.allianz,99.99327957,
+slb23192.srv.allianz,99.99327957,
+slb23189.srv.allianz,99.99327957,
+slb23170.srv.allianz,99.99327957,
+slb22649.srv.allianz,99.99327957,
+slb21414.srv.allianz,99.99327957,
+slb21350.srv.allianz,99.99327957,
+slb21124.srv.allianz,99.99327957,
+slb20378.srv.allianz,99.99327957,
+slb20120.srv.allianz,99.99327957,
+sla99008.srv.allianz,99.99327957,
+sla97634.srv.allianz,99.99327957,
+sla96452.srv.allianz,99.99327957,
+sla96429.srv.allianz,99.99327957,
+sla95617.srv.allianz,99.99327957,
+sla93851.srv.allianz,99.99327957,
+sla93765.srv.allianz,99.99327957,
+sla92468.srv.allianz,99.99327957,
+sla90333.srv.allianz,99.99327957,
+sla89054.srv.allianz,99.99327957,
+sla81805.srv.allianz,99.99327957,
+sla81203.srv.allianz,99.99327957,
+sla80707.srv.allianz,99.99327957,
+sla80552.srv.allianz,99.99327957,
+sla80551.srv.allianz,99.99327957,
+sla80482.srv.allianz,99.99327957,
+sla80321.srv.allianz,99.99327957,
+sla80320.srv.allianz,99.99327957,
+sla30418.srv.allianz,99.99327957,
+sla29454.srv.allianz,99.99327957,
+sla25767.srv.allianz,99.99327957,
+sla23569.srv.allianz,99.99327957,
+sla20981.srv.allianz,99.99327957,
+sla17250.srv.allianz,99.99327957,
+sla15217.srv.allianz,99.99327957,
+sla14651.srv.allianz,99.99327957,
+sla13476.srv.allianz,99.99327957,
+phpnb0122.srv.allianz,99.99327957,
+slc13833,99.99327957,
+slc13657,99.99327957,
+slc12842,99.99327957,
+slc12809,99.99327957,
+slc12578.aml-symphony-prod-p.we1.azure.aztec.cloud.allianz,99.99327957,
+slc12572.aml-symphony-prod-p.we1.azure.aztec.cloud.allianz,99.99327957,
+slc12340,99.99327957,
+slc11419.sapcloud.we1.azure.aztec.cloud.allianz,99.99327957,
+slc11360,99.99327957,
+slc11150.srv.allianz,99.99327957,
+slc10219,99.99327957,
+slb27515.srv.allianz,99.99327957,
+slb27025.srv.allianz,99.99327957,
+slb26991.srv.allianz,99.99327957,
+slb26981.srv.allianz,99.99327957,
+slb26893.srv.allianz,99.99327957,
+slb25691.srv.allianz,99.99327957,
+slb23966.srv.allianz,99.99327957,
+slb23233.srv.allianz,99.99327957,
+slb20602.srv.allianz,99.99327957,
+slb20381.srv.allianz,99.99327957,
+slb20380.srv.allianz,99.99327957,
+sla96432.srv.allianz,99.99327957,
+sla96283.srv.allianz,99.99327957,
+sla89102.srv.allianz,99.99327957,
+sla86871.srv.allianz,99.99327957,
+sla86846.srv.allianz,99.99327957,
+sla86803.srv.allianz,99.99327957,
+sla86573.srv.allianz,99.99327957,
+sla86539.srv.allianz,99.99327957,
+sla86530.srv.allianz,99.99327957,
+sla86467.srv.allianz,99.99327957,
+sla85931.srv.allianz,99.99327957,
+sla81709.srv.allianz,99.99327957,
+sla81163.srv.allianz,99.99327957,
+sla32060.srv.allianz,99.99327957,
+sla31142.srv.allianz,99.99327957,
+ovd86101.fra.oci.aztec.cloud.allianz,99.99327957,Not manage by HC-Linux team.
+slc12853.srv.allianz,99.99365293,
+slc12438,99.99365293,
+slc11987.amlmt3-s.fc1.azure.aztec.cloud.allianz,99.99365293,
+slb26937.srv.allianz,99.99365293,
+slb26935.srv.allianz,99.99365293,
+slb26898.srv.allianz,99.99365293,
+slb25772.srv.allianz,99.99365293,
+slb25759.srv.allianz,99.99365293,
+slb25606.srv.allianz,99.99365293,
+slb25326.srv.allianz,99.99365293,
+slb23919.srv.allianz,99.99365293,
+slb22648.srv.allianz,99.99365293,
+slb20846.srv.allianz,99.99365293,
+slb20230.srv.allianz,99.99365293,
+sla99152.srv.allianz,99.99365293,
+sla96726.srv.allianz,99.99365293,
+sla96449.srv.allianz,99.99365293,
+sla95632.srv.allianz,99.99365293,
+sla94711.srv.allianz,99.99365293,
+sla93706.srv.allianz,99.99365293,
+sla89109.srv.allianz,99.99365293,
+sla87356.srv.allianz,99.99365293,
+sla86815.srv.allianz,99.99365293,
+sla81693.srv.allianz,99.99365293,
+sla81272.srv.allianz,99.99365293,
+sla80818.srv.allianz,99.99365293,
+sla80675.srv.allianz,99.99365293,
+sla80631.srv.allianz,99.99365293,
+sla80559.srv.allianz,99.99365293,
+sla80354.srv.allianz,99.99365293,
+sla70251.srv.allianz,99.99365293,
+sla27210.srv.allianz,99.99365293,
+sla25394.srv.allianz,99.99365293,
+sla19317.srv.allianz,99.99365293,
+sla15667.srv.allianz,99.99365293,
+ovd93202.cdg.oci.aztec.cloud.allianz,99.99365293,Not manage by HC-Linux team.
+ovd82202.cdg.oci.aztec.cloud.allianz,99.99365293,Not manage by HC-Linux team.
+slc13775,99.99365293,
+slc13454.srv.allianz,99.99365293,
+slc13428,99.99365293,
+slc12877.srv.allianz,99.99365293,
+slc12248,99.99365293,
+slc11929,99.99365293,
+slc11926.sapsimplifi.we1.azure.aztec.cloud.allianz,99.99365293,
+slc11643.srv.allianz,99.99365293,
+slc11536,99.99365293,
+slc10218,99.99365293,
+slb27087.srv.allianz,99.99365293,
+sla91807.srv.allianz,99.99365293,
+sla86285.srv.allianz,99.99365293,
+sla81603.srv.allianz,99.99365293,
+slc13770,99.99402628,
+slc13167.srv.allianz,99.99402628,
+slc10480.sapcloud.we1.azure.aztec.cloud.allianz,99.99402628,
+slb27572.srv.allianz,99.99402628,
+slb27325.srv.allianz,99.99402628,
+slb27079.srv.allianz,99.99402628,
+slb26932.srv.allianz,99.99402628,
+slb25879.srv.allianz,99.99402628,
+slas0015,99.99402628,
+sla86386.srv.allianz,99.99402628,
+sla82690.srv.allianz,99.99402628,
+sla30187.srv.allianz,99.99402628,
+sla14657.srv.allianz,99.99402628,
+ovd82102.cdg.oci.aztec.cloud.allianz,99.99402628,Not manage by HC-Linux team.
+slc13802,99.99402628,
+slc13682,99.99402628,
+slc13681,99.99402628,
+slc13680,99.99402628,
+slc13650,99.99402628,
+slc13649,99.99402628,
+slc13583,99.99402628,
+slc13310,99.99402628,
+slc13061,99.99402628,
+slc12864.srv.allianz,99.99402628,
+slc12804,99.99402628,
+slc12796.sapcloud.ne1.azure.aztec.cloud.allianz,99.99402628,
+slc12791.sapsimplifi.we1.azure.aztec.cloud.allianz,99.99402628,
+slc11736,99.99402628,
+slc11578,99.99402628,
+slc11275.sapcloud-1.we1.azure.aztec.cloud.allianz,99.99402628,
+slb27532.srv.allianz,99.99402628,
+slb27317.srv.allianz,99.99402628,
+slb27166.srv.allianz,99.99402628,
+slb26933.srv.allianz,99.99402628,
+slb26930.srv.allianz,99.99402628,
+slb26903.srv.allianz,99.99402628,
+slb26879.srv.allianz,99.99402628,
+slb26651.srv.allianz,99.99402628,
+slb26568.srv.allianz,99.99402628,
+slb26499.srv.allianz,99.99402628,
+slb25534.srv.allianz,99.99402628,
+slb25526.srv.allianz,99.99402628,
+slb25503.srv.allianz,99.99402628,
+slb25357.srv.allianz,99.99402628,
+slb25330.srv.allianz,99.99402628,
+slb25184.srv.allianz,99.99402628,
+slb25110.srv.allianz,99.99402628,
+slb24912.srv.allianz,99.99402628,
+slb24008.srv.allianz,99.99402628,
+slb23965.srv.allianz,99.99402628,
+slb23234.srv.allianz,99.99402628,
+slb22650.srv.allianz,99.99402628,
+slb22268.srv.allianz,99.99402628,
+slb21583.srv.allianz,99.99402628,
+slb21535.srv.allianz,99.99402628,
+slb21418.srv.allianz,99.99402628,
+sla99360.srv.allianz,99.99402628,
+sla98436.srv.allianz,99.99402628,
+sla97541.srv.allianz,99.99402628,
+sla96996.srv.allianz,99.99402628,
+sla96421.srv.allianz,99.99402628,
+sla95619.srv.allianz,99.99402628,
+sla95136.srv.allianz,99.99402628,
+sla94354.srv.allianz,99.99402628,
+sla93313.srv.allianz,99.99402628,
+sla92658.srv.allianz,99.99402628,
+sla92486.srv.allianz,99.99402628,
+sla92066.srv.allianz,99.99402628,
+sla91806.srv.allianz,99.99402628,
+sla89103.srv.allianz,99.99402628,
+sla86532.srv.allianz,99.99402628,
+sla86128.srv.allianz,99.99402628,
+sla86125.srv.allianz,99.99402628,
+sla82703.srv.allianz,99.99402628,
+sla81271.srv.allianz,99.99402628,
+sla81162.srv.allianz,99.99402628,
+sla81110.srv.allianz,99.99402628,
+sla80560.srv.allianz,99.99402628,
+sla80326.srv.allianz,99.99402628,
+sla78822,99.99402628,
+sla19318.srv.allianz,99.99402628,
+sla17879.srv.allianz,99.99402628,
+sla14198.srv.allianz,99.99402628,
+sla13395.srv.allianz,99.99402628,
+sla13392.srv.allianz,99.99402628,
+slc13732,99.99402628,
+slc13274,99.99402628,
+slc12869,99.99402628,
+slc13669.srv.allianz,99.99439964,
+slc13651,99.99439964,
+slc13059,99.99439964,
+slc12838,99.99439964,
+slc12582.aml-symphony-prod-p.we1.azure.aztec.cloud.allianz,99.99439964,
+slc12218,99.99439964,
+slc11266,99.99439964,
+slb27305.srv.allianz,99.99439964,
+slb27300.srv.allianz,99.99439964,
+slb26936.srv.allianz,99.99439964,
+slb26896.srv.allianz,99.99439964,
+slb26892.srv.allianz,99.99439964,
+slb26886.srv.allianz,99.99439964,
+slb26647.srv.allianz,99.99439964,
+slb26071.srv.allianz,99.99439964,
+slb25670.srv.allianz,99.99439964,
+slb25554.srv.allianz,99.99439964,
+slb23860.srv.allianz (Proxy),99.99439964,
+slb21735.srv.allianz,99.99439964,
+sla93730.srv.allianz,99.99439964,
+sla86758.srv.allianz,99.99439964,
+sla86523.srv.allianz,99.99439964,
+sla80544.srv.allianz,99.99439964,
+sla31796.srv.allianz,99.99439964,
+slc13776,99.99439964,
+slc13749.srv.allianz,99.99439964,
+slc11842,99.99439964,
+slc10822,99.99439964,
+slb26752.srv.allianz,99.99439964,
+slb25470.srv.allianz,99.99439964,
+slb25138.srv.allianz,99.99439964,
+slb24969.srv.allianz,99.99439964,
+slb24960.srv.allianz,99.99439964,
+slb24852.srv.allianz,99.99439964,
+slb24800.srv.allianz,99.99439964,
+slb24784.srv.allianz,99.99439964,
+slb24307.srv.allianz,99.99439964,
+slb23945.srv.allianz,99.99439964,
+slb23840.srv.allianz (ES),99.99439964,
+slb23191.srv.allianz,99.99439964,
+slb22731.srv.allianz,99.99439964,
+slb22645.srv.allianz,99.99439964,
+slb22515.srv.allianz,99.99439964,
+slb21683.srv.allianz,99.99439964,
+slb21550.srv.allianz,99.99439964,
+slb20414.srv.allianz,99.99439964,
+slas0014.sapcloud.we1.azure.aztec.cloud.allianz,99.99439964,
+sla99930.srv.allianz,99.99439964,
+sla99650.srv.allianz,99.99439964,
+sla99306.srv.allianz,99.99439964,
+sla97539.srv.allianz,99.99439964,
+sla96989.srv.allianz,99.99439964,
+sla95469.srv.allianz,99.99439964,
+sla94374.srv.allianz,99.99439964,
+sla91987.srv.allianz,99.99439964,
+sla91975.srv.allianz,99.99439964,
+sla90329.srv.allianz,99.99439964,
+sla88041.srv.allianz,99.99439964,
+sla86468.srv.allianz,99.99439964,
+sla86287.srv.allianz,99.99439964,
+sla80727.srv.allianz,99.99439964,
+sla80562.srv.allianz,99.99439964,
+sla80395.srv.allianz,99.99439964,
+sla80394.srv.allianz,99.99439964,
+sla24582.srv.allianz,99.99439964,
+sla17483.srv.allianz,99.99439964,
+sla15281.srv.allianz,99.99439964,
+sla13063.srv.allianz,99.99439964,
+slc13777,99.994773,
+slc13773,99.994773,
+slc13730,99.994773,
+slc13720,99.994773,
+slc13718,99.994773,
+slc13670.srv.allianz,99.994773,
+slc13565,99.994773,
+slc12839,99.994773,
+slc12817.srv.allianz,99.994773,
+slc12661.srv.allianz,99.994773,
+slc12333,99.994773,
+slc11784,99.994773,
+slc11229,99.994773,
+slc11222.srv.allianz,99.994773,
+slc11122,99.994773,
+slb27533.srv.allianz,99.994773,
+slb27168.srv.allianz,99.994773,
+slb26888.srv.allianz,99.994773,
+slb25682.srv.allianz,99.994773,
+slb25524.srv.allianz,99.994773,
+slb24978.srv.allianz,99.994773,
+slb24794.srv.allianz,99.994773,
+slb24783.srv.allianz,99.994773,
+slb24751.srv.allianz,99.994773,
+slb24393.srv.allianz,99.994773,
+slb23963.srv.allianz,99.994773,
+slb23286.srv.allianz (Collibra UAT),99.994773,
+slb22561.srv.allianz,99.994773,
+slb21725.srv.allianz,99.994773,
+slb21716.srv.allianz,99.994773,
+slb21552.srv.allianz,99.994773,
+slb21486.srv.allianz,99.994773,
+slb21397.srv.allianz,99.994773,
+slb20749.srv.allianz,99.994773,
+slb20410.srv.allianz(alias bapps-rh-uat),99.994773,
+slb20224.srv.allianz,99.994773,
+slb20135.srv.allianz,99.994773,
+sla99151.srv.allianz,99.994773,
+sla98798.srv.allianz,99.994773,
+sla98440.srv.allianz,99.994773,
+sla98439.srv.allianz,99.994773,
+sla97231.srv.allianz,99.994773,
+sla95919.srv.allianz,99.994773,
+sla95631.srv.allianz,99.994773,
+sla91418.srv.allianz,99.994773,
+sla91241.srv.allianz,99.994773,
+sla89100.srv.allianz,99.994773,
+sla86245.srv.allianz,99.994773,
+sla85983.srv.allianz,99.994773,
+sla81936.srv.allianz,99.994773,
+sla81768.srv.allianz,99.994773,
+sla80493.srv.allianz,99.994773,
+sla80327.srv.allianz,99.994773,
+sla31147.srv.allianz,99.994773,
+sla31140.srv.allianz,99.994773,
+sla11233.srv.allianz,99.994773,
+qs83731.agf.fr,99.994773,
+slc12833,99.994773,
+slc12577.aml-symphony-prod-p.we1.azure.aztec.cloud.allianz,99.994773,
+slb26934.srv.allianz,99.994773,
+slb24881.srv.allianz,99.994773,
+slb24092.srv.allianz,99.994773,
+slc13426,99.99514636,
+slc13306,99.99514636,
+slc12820.srv.allianz,99.99514636,
+slc12579.aml-symphony-prod-p.we1.azure.aztec.cloud.allianz,99.99514636,
+slb26611.srv.allianz,99.99514636,
+slb25653.srv.allianz,99.99514636,
+slb25476.srv.allianz,99.99514636,
+slb25301.srv.allianz,99.99514636,
+slb24956.srv.allianz,99.99514636,
+slb24950.srv.allianz,99.99514636,
+slb24888.srv.allianz,99.99514636,
+slb24762.srv.allianz,99.99514636,
+slb24750.srv.allianz,99.99514636,
+slb23200.srv.allianz,99.99514636,
+slb22319.srv.allianz,99.99514636,
+slb21738.srv.allianz,99.99514636,
+sla99478.srv.allianz,99.99514636,
+sla94135.srv.allianz,99.99514636,
+sla93871.srv.allianz,99.99514636,
+sla92417.srv.allianz,99.99514636,
+sla86519.srv.allianz,99.99514636,
+sla85501.srv.allianz,99.99514636,
+sla81050.srv.allianz,99.99514636,
+slc13798,99.99514636,
+slc13771,99.99514636,
+slc13769,99.99514636,
+slc13683,99.99514636,
+slc13589.pega-dr-vpc-dtwsh-csnsbvrr3v3.ec1.aws.aztec.cloud.allianz,99.99514636,
+slc12963.sapcloud.ne1.azure.aztec.cloud.allianz,99.99514636,
+slc12931,99.99514636,
+slc12361.srv.allianz,99.99514636,
+slc12360.srv.allianz,99.99514636,
+slc12219,99.99514636,
+slc12114,99.99514636,
+slc11312,99.99514636,
+slc11139.sapcloud.we1.azure.aztec.cloud.allianz,99.99514636,
+slc11115.sapcloud.we1.azure.aztec.cloud.allianz,99.99514636,
+slc10351,99.99514636,
+slb27220.srv.allianz,99.99514636,
+slb27167.srv.allianz,99.99514636,
+slb26931.srv.allianz,99.99514636,
+slb26889.srv.allianz,99.99514636,
+slb26184.srv.allianz,99.99514636,
+slb25186.srv.allianz,99.99514636,
+slb24959.srv.allianz,99.99514636,
+slb24774.srv.allianz,99.99514636,
+slb23862.srv.allianz (Proxy),99.99514636,
+slb22278.srv.allianz,99.99514636,
+slb22072.srv.allianz,99.99514636,
+slb21605.srv.allianz,99.99514636,
+slb21540.srv.allianz,99.99514636,
+slb21536.srv.allianz,99.99514636,
+sla98434.srv.allianz,99.99514636,
+sla97638.srv.allianz,99.99514636,
+sla97540.srv.allianz,99.99514636,
+sla97000.srv.allianz,99.99514636,
+sla95916.srv.allianz,99.99514636,
+sla95655.srv.allianz,99.99514636,
+sla95567.srv.allianz,99.99514636,
+sla89499.srv.allianz,99.99514636,
+sla87820.srv.allianz,99.99514636,
+sla86496.srv.allianz,99.99514636,
+sla86328.srv.allianz,99.99514636,
+sla85291.srv.allianz,99.99514636,
+sla82702.srv.allianz,99.99514636,
+sla81614.srv.allianz,99.99514636,
+sla81156.srv.allianz,99.99514636,
+sla81153.srv.allianz,99.99514636,
+sla80790.srv.allianz (e2-il-baw2),99.99514636,
+sla32288.srv.allianz,99.99514636,
+sla31146.srv.allianz,99.99514636,
+sla25120.srv.allianz,99.99514636,
+ovd92202.cdg.oci.aztec.cloud.allianz,99.99514636,Not manage by HC-Linux team.
+ovd86102.fra.oci.aztec.cloud.allianz,99.99514636,Not manage by HC-Linux team.
+slc13768.sapcloud.ne1.azure.aztec.cloud.allianz,99.99551971,
+slc13712,99.99551971,
+slc13710,99.99551971,
+slc12960.sapcloud.ne1.azure.aztec.cloud.allianz,99.99551971,
+slc12841,99.99551971,
+slc12664.vpc-prod-dr-rnf62-ni9dnnqd7mb.ec1.aws.aztec.cloud.allianz,99.99551971,
+slc12580.aml-symphony-prod-p.we1.azure.aztec.cloud.allianz,99.99551971,
+slc12321.sapcloud.we1.azure.aztec.cloud.allianz,99.99551971,
+slc11118.sapcloud-1.we1.azure.aztec.cloud.allianz,99.99551971,
+slc11117.sapcloud-1.we1.azure.aztec.cloud.allianz,99.99551971,
+slc10789.sapcloud-1.we1.azure.aztec.cloud.allianz,99.99551971,
+slc10291.sapcloud.we1.azure.aztec.cloud.allianz,99.99551971,
+slc10288.sapcloud.we1.azure.aztec.cloud.allianz,99.99551971,
+slb27302.srv.allianz,99.99551971,
+slb27301.srv.allianz,99.99551971,
+slb26181.srv.allianz,99.99551971,
+slb25926.srv.allianz,99.99551971,
+slb25786.srv.allianz,99.99551971,
+slb25233.srv.allianz,99.99551971,
+slb24963.srv.allianz,99.99551971,
+slb24962.srv.allianz,99.99551971,
+slb24957.srv.allianz,99.99551971,
+slb24889.srv.allianz,99.99551971,
+slb24867.srv.allianz,99.99551971,
+slb24851.srv.allianz,99.99551971,
+slb24795.srv.allianz,99.99551971,
+slb23797.srv.allianz,99.99551971,
+slb23730.srv.allianz,99.99551971,
+slb23729.srv.allianz,99.99551971,
+slb23726.srv.allianz,99.99551971,
+slb23199.srv.allianz,99.99551971,
+slb22676.srv.allianz,99.99551971,
+slb22529.srv.allianz,99.99551971,
+slb21549.srv.allianz,99.99551971,
+slb21541.srv.allianz,99.99551971,
+slb21439.srv.allianz,99.99551971,
+slb20028.srv.allianz,99.99551971,
+sla99929.srv.allianz,99.99551971,
+sla99762.srv.allianz,99.99551971,
+sla98441.srv.allianz,99.99551971,
+sla98435.srv.allianz,99.99551971,
+sla97253.srv.allianz,99.99551971,
+sla96861.srv.allianz,99.99551971,
+sla95918.srv.allianz,99.99551971,
+sla94706.srv.allianz,99.99551971,
+sla94325.srv.allianz,99.99551971,
+sla92283.srv.allianz,99.99551971,
+sla91976.srv.allianz,99.99551971,
+sla91849.srv.allianz,99.99551971,
+sla91450.srv.allianz,99.99551971,
+sla89485.srv.allianz,99.99551971,
+sla89104.srv.allianz,99.99551971,
+sla86760.srv.allianz,99.99551971,
+sla86561.srv.allianz,99.99551971,
+sla86545.srv.allianz,99.99551971,
+sla86521.srv.allianz,99.99551971,
+sla86509.srv.allianz,99.99551971,
+sla86506.srv.allianz,99.99551971,
+sla86288.srv.allianz,99.99551971,
+sla86273.srv.allianz,99.99551971,
+sla85499.srv.allianz,99.99551971,
+sla85444.srv.allianz,99.99551971,
+sla81804.srv.allianz,99.99551971,
+sla81767.srv.allianz,99.99551971,
+sla81756.srv.allianz,99.99551971,
+sla81474.srv.allianz,99.99551971,
+sla81241.srv.allianz,99.99551971,
+sla80830.srv.allianz,99.99551971,
+sla20372.srv.allianz,99.99551971,
+sla13430.srv.allianz,99.99551971,
+slc13647,99.99551971,
+slc13590.pega-dr-vpc-dtwsh-csnsbvrr3v3.ec1.aws.aztec.cloud.allianz,99.99551971,
+slc13424,99.99551971,
+slc13371,99.99551971,
+slc11140.sapcloud.we1.azure.aztec.cloud.allianz,99.99551971,
+slb26180.srv.allianz,99.99551971,
+slb23731.srv.allianz,99.99551971,
+sla81923.srv.allianz,99.99551971,
+slc12798.sapcloud.ne1.azure.aztec.cloud.allianz,99.99589307,
+slc12566,99.99589307,
+slb26645.srv.allianz,99.99589307,
+slb23958.srv.allianz,99.99589307,
+slc12926,99.99589307,
+slb26182.srv.allianz,99.99589307,
+slb25114.srv.allianz,99.99589307,
+slb24911.srv.allianz,99.99589307,
+sla99140.srv.allianz,99.99589307,
+sla94212.srv.allianz,99.99589307,
+sla93714.srv.allianz,99.99589307,
+sla86560.srv.allianz,99.99589307,
+sla81253.srv.allianz,99.99589307,
+qs83745.agf.fr,99.99589307,
+phpnb0121.srv.allianz,99.99589307,
+slc11726.sapcloud.we1.azure.aztec.cloud.allianz,99.99589307,
+ovd82101.cdg.oci.aztec.cloud.allianz,99.99589307,Not manage by HC-Linux team.
+slc13819,99.99626643,
+slc13427,99.99626643,
+slc13374,99.99626643,
+slc12865.avcce1shared-dns-1a-p.gwc1.azure.aztec.cloud.allianz,99.99626643,
+slc12488.srv.allianz,99.99626643,
+slc12120,99.99626643,
+slb27514.srv.allianz,99.99626643,
+ovd83301.fra.oci.aztec.cloud.allianz,99.99626643,Not manage by HC-Linux team.
+slc13791.sapcloud.ne1.azure.aztec.cloud.allianz,99.99626643,
+slc12142.aml-symphony-preprod-p.fc1.azure.aztec.cloud.allianz,99.99626643,
+slc12134,99.99626643,
+slc11925.sapcloud-1.we1.azure.aztec.cloud.allianz,99.99626643,
+slc11914.sapcloud-1.we1.azure.aztec.cloud.allianz,99.99626643,
+slc11457.sapcloud-1.we1.azure.aztec.cloud.allianz,99.99626643,
+slc10410.sapcloud.we1.azure.aztec.cloud.allianz,99.99626643,
+slb26843.srv.allianz,99.99626643,
+slb25619.srv.allianz,99.99626643,
+slb24823.srv.allianz,99.99626643,
+slb23704.srv.allianz,99.99626643,
+slb22270.srv.allianz,99.99626643,
+slb21498.srv.allianz,99.99626643,
+slb20164.srv.allianz,99.99626643,
+sla99479.srv.allianz,99.99626643,
+sla99202.srv.allianz (ES),99.99626643,
+sla98474.srv.allianz,99.99626643,
+sla93732.srv.allianz,99.99626643,
+sla92557.srv.allianz,99.99626643,
+sla92469.srv.allianz,99.99626643,
+sla89502.srv.allianz,99.99626643,
+sla89501.srv.allianz,99.99626643,
+sla86289.srv.allianz,99.99626643,
+sla86278.srv.allianz,99.99626643,
+sla86277.srv.allianz,99.99626643,
+sla86275.srv.allianz,99.99626643,
+sla86271.srv.allianz,99.99626643,
+sla86270.srv.allianz,99.99626643,
+sla81180.srv.allianz,99.99626643,
+slc13772,99.99663978,
+slc13729,99.99663978,
+slc13181,99.99663978,
+slc13127,99.99663978,
+slc12840,99.99663978,
+slc12768,99.99663978,
+slc11113.sapcloud.we1.azure.aztec.cloud.allianz,99.99663978,
+slc10321.sapcloud.we1.azure.aztec.cloud.allianz,99.99663978,
+slb25497.srv.allianz,99.99663978,
+slb24869.srv.allianz,99.99663978,
+slb23734.srv.allianz,99.99663978,
+slb23597.srv.allianz (Oasys-claims TST),99.99663978,
+slb22269.srv.allianz,99.99663978,
+slb21760.srv.allianz,99.99663978,
+slb20273.srv.allianz,99.99663978,
+sla96704.srv.allianz,99.99663978,
+sla93878.srv.allianz,99.99663978,
+sla81615.srv.allianz,99.99663978,
+sla70003,99.99663978,
+sla29039.srv.allianz,99.99663978,
+ovd86201.fra.oci.aztec.cloud.allianz,99.99663978,Not manage by HC-Linux team.
+slc13790.sapcloud.ne1.azure.aztec.cloud.allianz,99.99663978,
+slc12929,99.99663978,
+slc12928,99.99663978,
+slc12925,99.99663978,
+slc11228.bilbasl-p.ne1.azure.aztec.cloud.allianz,99.99663978,
+slb26613.srv.allianz,99.99663978,
+slb26535.srv.allianz,99.99663978,
+slb26533.srv.allianz,99.99663978,
+slb26147.srv.allianz,99.99663978,
+slb25872.srv.allianz,99.99663978,
+slb25789.srv.allianz,99.99663978,
+slb25787.srv.allianz,99.99663978,
+slb24824.srv.allianz,99.99663978,
+slb24513.srv.allianz,99.99663978,
+sla98477.srv.allianz,99.99663978,
+sla93441.srv.allianz,99.99663978,
+sla87252.srv.allianz,99.99663978,
+sla86276.srv.allianz,99.99663978,
+sla82720.srv.allianz,99.99663978,
+sla82660.srv.allianz,99.99663978,
+sla81809.srv.allianz,99.99663978,
+sla81801.srv.allianz,99.99663978,
+sla81273.srv.allianz,99.99663978,
+sla78824,99.99663978,
+sla70063.srv.allianz,99.99663978,
+sla21351.srv.allianz,99.99663978,
+qs83892.agf.fr,99.99663978,
+slc12843,99.99701314,
+slc12576.aml-symphony-prod-p.we1.azure.aztec.cloud.allianz,99.99701314,
+slb27613.srv.allianz,99.99701314,
+sla94208.srv.allianz,99.99701314,
+slc13794.sapcloud.ne1.azure.aztec.cloud.allianz,99.99701314,
+slc12985.sapsimplifi.we1.azure.aztec.cloud.allianz,99.99701314,
+slc12964.sapcloud.ne1.azure.aztec.cloud.allianz,99.99701314,
+slc12962.sapcloud.ne1.azure.aztec.cloud.allianz,99.99701314,
+slc12924,99.99701314,
+slc11112.sapcloud.we1.azure.aztec.cloud.allianz,99.99701314,
+slc10996,99.99701314,
+slc10995,99.99701314,
+slc05635,99.99701314,
+slb26615.srv.allianz,99.99701314,
+slb24879.srv.allianz,99.99701314,
+slb24821.srv.allianz,99.99701314,
+slb23733.srv.allianz,99.99701314,
+slb21600.srv.allianz,99.99701314,
+slb21505.srv.allianz,99.99701314,
+slb21504.srv.allianz,99.99701314,
+slb21500.srv.allianz,99.99701314,
+slb21420.srv.allianz,99.99701314,
+sla98509.srv.allianz,99.99701314,
+sla91128.srv.allianz,99.99701314,
+sla90328.srv.allianz,99.99701314,
+sla86640.srv.allianz,99.99701314,
+sla86127.srv.allianz,99.99701314,
+sla85538.srv.allianz,99.99701314,
+sla82675.srv.allianz,99.99701314,
+sla80912.srv.allianz,99.99701314,
+sla80495.srv.allianz,99.99701314,
+sla80366.srv.allianz,99.99701314,
+sla20532.srv.allianz,99.99701314,
+qs83965.agf.fr,99.99701314,
+qs83730,99.99701314,
+ovd83302.fra.oci.aztec.cloud.allianz,99.99701314,Not manage by HC-Linux team.
+ovd82201.cdg.oci.aztec.cloud.allianz,99.99701314,Not manage by HC-Linux team.
+slc13814.sapcloud.ne1.azure.aztec.cloud.allianz,99.9973865,
+slc13234.sapcloud.ne1.azure.aztec.cloud.allianz,99.9973865,
+slc12965.sapcloud.ne1.azure.aztec.cloud.allianz,99.9973865,
+slc12959.sapcloud.ne1.azure.aztec.cloud.allianz,99.9973865,
+slc12950.sapcloud.ne1.azure.aztec.cloud.allianz,99.9973865,
+slc12922,99.9973865,
+slc12921,99.9973865,
+slc12918,99.9973865,
+slc12916,99.9973865,
+slc12819,99.9973865,
+slc12795.sapcloud.ne1.azure.aztec.cloud.allianz,99.9973865,
+slc11269.sapcloud.we1.azure.aztec.cloud.allianz,99.9973865,
+slb27084.srv.allianz,99.9973865,
+slb27023.srv.allianz,99.9973865,
+slb26616.srv.allianz,99.9973865,
+slb26610.srv.allianz,99.9973865,
+slb26149.srv.allianz,99.9973865,
+slb26148.srv.allianz,99.9973865,
+slb26145.srv.allianz,99.9973865,
+slb25848.srv.allianz,99.9973865,
+slb25539.srv.allianz,99.9973865,
+slb25514.srv.allianz,99.9973865,
+slb25370.srv.allianz,99.9973865,
+slb24517.srv.allianz,99.9973865,
+slb22601.srv.allianz,99.9973865,
+slb22324.srv.allianz,99.9973865,
+sla99481.srv.allianz,99.9973865,
+sla99480.srv.allianz,99.9973865,
+sla99301.srv.allianz,99.9973865,
+sla98473.srv.allianz,99.9973865,
+sla92415.srv.allianz,99.9973865,
+sla89197.srv.allianz,99.9973865,
+sla86757.srv.allianz,99.9973865,
+sla85500.srv.allianz,99.9973865,
+sla85480.srv.allianz,99.9973865,
+sla80483.srv.allianz,99.9973865,
+sla80367.srv.allianz,99.9973865,
+sla20531.srv.allianz,99.9973865,
+ovd86202.fra.oci.aztec.cloud.allianz,99.9973865,Not manage by HC-Linux team.
+slc11621.sapcloud-1.we1.azure.aztec.cloud.allianz,99.9973865,
+slc11620.sapcloud-1.we1.azure.aztec.cloud.allianz,99.9973865,
+slc10322.sapcloud.we1.azure.aztec.cloud.allianz,99.9973865,
+sla94296.srv.allianz,99.9973865,
+sla86508.srv.allianz,99.9973865,
+slc13818.sapcloud.ne1.azure.aztec.cloud.allianz,99.99775986,
+slc13815.sapcloud.ne1.azure.aztec.cloud.allianz,99.99775986,
+slc13813.sapcloud.ne1.azure.aztec.cloud.allianz,99.99775986,
+slc13235.sapcloud.ne1.azure.aztec.cloud.allianz,99.99775986,
+slc13190.sapimarise-p.we1.azure.aztec.cloud.allianz,99.99775986,
+slc12974.sapcloud.ne1.azure.aztec.cloud.allianz,99.99775986,
+slc12927,99.99775986,
+slc11871.sapcloud-1.we1.azure.aztec.cloud.allianz,99.99775986,
+slc11667,99.99775986,
+slc11271.sapcloud.we1.azure.aztec.cloud.allianz,99.99775986,
+slc11270.sapcloud.we1.azure.aztec.cloud.allianz,99.99775986,
+slc10451,99.99775986,
+slc10414.sapcloud.we1.azure.aztec.cloud.allianz,99.99775986,
+slc10374.sapcloud.we1.azure.aztec.cloud.allianz,99.99775986,
+slc10332,99.99775986,
+slc10300,99.99775986,
+slb27601.srv.allianz,99.99775986,
+slb26755.srv.allianz,99.99775986,
+slb26534.srv.allianz,99.99775986,
+slb26465.srv.allianz,99.99775986,
+slb25811.srv.allianz,99.99775986,
+slb25327.srv.allianz,99.99775986,
+slb24153.srv.allianz,99.99775986,
+slb23735.srv.allianz,99.99775986,
+slb23728.srv.allianz,99.99775986,
+slb22531.srv.allianz,99.99775986,
+slb22273.srv.allianz,99.99775986,
+slb21503.srv.allianz,99.99775986,
+sla99456.srv.allianz,99.99775986,
+sla98438.srv.allianz,99.99775986,
+sla97236.srv.allianz,99.99775986,
+sla94760.srv.allianz,99.99775986,
+sla93766.srv.allianz,99.99775986,
+sla89444.srv.allianz - ITS_IIQ - SAILPOINT,99.99775986,
+sla86469.srv.allianz,99.99775986,
+sla85479.srv.allianz,99.99775986,
+sla80911.srv.allianz,99.99775986,
+sla80821.srv.allianz,99.99775986,
+sla80761.srv.allianz,99.99775986,
+sla78825,99.99775986,
+sla78803,99.99775986,
+sla30282.srv.allianz,99.99775986,
+slb25498.srv.allianz,99.99775986,
+slb27344.srv.allianz,99.99813321,
+slb22272.srv.allianz,99.99813321,
+slc13795.sapcloud.ne1.azure.aztec.cloud.allianz,99.99850657,
+slc12923,99.99850657,
+slb27294.srv.allianz,99.99850657,
+slb26618.srv.allianz,99.99850657,
+slb26617.srv.allianz,99.99850657,
+slb26178.srv.allianz,99.99850657,
+slb24576.srv.allianz,99.99850657,
+slb21890.srv.allianz,99.99850657,
+slb21502.srv.allianz,99.99850657,
+sla98797.srv.allianz,99.99850657,
+sla81937.srv.allianz,99.99850657,
+qs83746.agf.fr,99.99850657,
+slc12957.sapcloud.ne1.azure.aztec.cloud.allianz,99.99887993,
+slc12951.sapcloud.ne1.azure.aztec.cloud.allianz,99.99887993,
+slc10669,99.99887993,
+slb26179.srv.allianz,99.99887993,
+slb25788.srv.allianz,99.99887993,
+slb21501.srv.allianz,99.99887993,
+slb21050.srv.allianz,99.99887993,
+sla81797.srv.allianz,99.99887993,
+slc13131.sapcloud.ne1.azure.aztec.cloud.allianz,99.99925329,
+slc12930,99.99925329,
+slc12917,99.99925329,
+slb11090.srv.allianz,99.99925329,
+slb24492.srv.allianz,99.99925329,
+slb24154.srv.allianz,99.99925329,
+sla94701.srv.allianz,99.99925329,
+sla93617.srv.allianz,99.99925329,
+sla90122,99.99925329,
+sla89112.srv.allianz,99.99925329,
+sla81611.srv.allianz,99.99925329,
+qs84108 - its_ciam-us-rect,99.99925329,
+qs84107 - its_ciam-amcs-rect,99.99925329,
+slc10921.sapcloud.we1.azure.aztec.cloud.allianz,99.99962664,
+slb25531.srv.allianz,99.99962664,
+slb24974.srv.allianz,99.99962664,
+slb22294.srv.allianz,99.99962664,
+slb22290.srv.allianz,99.99962664,
+slb21682.srv.allianz,99.99962664,
+slb09011.srv.allianz,99.99962664,
+slb09010.srv.allianz,99.99962664,
+sla93869.srv.allianz,99.99962664,
+sla93619.srv.allianz,99.99962664,
+sla80842.srv.allianz,99.99962664,
+slc12984,100,
+slc12575.aml-symphony-prod-p.we1.azure.aztec.cloud.allianz,100,
+slc11173.sapcloud.we1.azure.aztec.cloud.allianz,100,
+slc11171.sapcloud.we1.azure.aztec.cloud.allianz,100,
+slc11100.sapcloud.we1.azure.aztec.cloud.allianz,100,
+slc11098.sapcloud.we1.azure.aztec.cloud.allianz,100,
+slc11097.sapcloud.we1.azure.aztec.cloud.allianz,100,
+slc11040.sapcloud.we1.azure.aztec.cloud.allianz,100,
+slc10918.sapcloud.we1.azure.aztec.cloud.allianz,100,
+slc02382,100,
+slb27179.srv.allianz,100,
+slb26939.srv.allianz,100,
+slb25542.srv.allianz,100,
+slb25541.srv.allianz,100,
+slb25518.srv.allianz,100,
+slb25517.srv.allianz,100,
+slb25516.srv.allianz,100,
+slb25515.srv.allianz,100,
+slb25486.srv.allianz,100,
+slb25485.srv.allianz,100,
+slb25484.srv.allianz,100,
+slb25479.srv.allianz,100,
+slb25477.srv.allianz,100,
+slb25474.srv.allianz,100,
+slb25070.srv.allianz,100,
+slb24987.srv.allianz,100,
+slb24799.srv.allianz,100,
+slb23092.srv.allianz (Sahara TST),100,
+slb11061.srv.allianz,100,
+sla97249.srv.allianz,100,
+sla95734.srv.allianz,100,
+sla94191.srv.allianz,100,
+sla93870.srv.allianz,100,
+sla93691.srv.allianz,100,
+sla93596.srv.allianz,100,
+sla93289.srv.allianz,100,
+sla93170.srv.allianz,100,
+sla92918.srv.allianz,100,
+sla92773.srv.allianz,100,
+sla92286.srv.allianz,100,
+sla89433.srv.allianz,100,
+sla89338.srv.allianz,100,
+sla89336.srv.allianz,100,
+sla88241.srv.allianz,100,
+sla86501.srv.allianz,100,
+sla81810.srv.allianz,100,
+sla81762.srv.allianz,100,
+sla81706.srv.allianz,100,
+sla81431.srv.allianz,100,
+sla80504.srv.allianz,100,
+sla80496.srv.allianz,100,
+sla80229.srv.allianz,100,
+sla31343.srv.allianz,100,
+sla31342.srv.allianz,100,
+sla30053.srv.allianz,100,
+sla30051.srv.allianz,100,
+sla30049.srv.allianz,100,
+sla08154.srv.allianz,100,
+qs84112 - its_ciam-cts-rect,100,
+qs84111 - its_ciam-us-rect,100,
+qs84110 - its_ciam-amcs-rect,100,
+qs84059 - its_ciam-ps-rect,100,
+"sla80733.srv.allianz (LIFT ,99.99103942652332
+sla80474.srv.allianz,99.99103942652332
+sla80120.srv.allianz,99.99103942652332
+sla31797.srv.allianz,99.99103942652332
+sla27211.srv.allianz,99.99103942652332
+sla19059.srv.allianz,99.99103942652332
+sla15851.srv.allianz,99.99103942652332
+sla14646.srv.allianz,99.99103942652332
+slc13402,99.9910394265233
+slc12863.srv.allianz,99.9910394265233
+slc12621.srv.allianz,99.9910394265233
+slc12500.srv.allianz,99.9910394265233
+slc12364,99.9910394265233
+slc12299,99.9910394265233
+slc11832,99.9910394265233
+slc11653,99.9910394265233
+slc11440,99.9910394265233
+slc11106,99.9910394265233
+slc11018,99.9910394265233
+slc10682,99.9910394265233
+slb27571.srv.allianz,99.9910394265233
+slb27082.srv.allianz,99.9910394265233
+slb26891.srv.allianz,99.9910394265233
+slb26693.srv.allianz,99.9910394265233
+slb26646.srv.allianz,99.9910394265233
+slb25643.srv.allianz,99.9910394265233
+slb25209.srv.allianz,99.9910394265233
+slb25106.srv.allianz,99.9910394265233
+slb24951.srv.allianz,99.9910394265233
+slb24074.srv.allianz,99.9910394265233
+slb24037.srv.allianz,99.9910394265233
+slb23962.srv.allianz,99.9910394265233
+slb23901.srv.allianz,99.9910394265233
+slb23480.srv.allianz,99.9910394265233
+slb23091.srv.allianz,99.9910394265233
+slb22506.srv.allianz,99.9910394265233
+sla96430.srv.allianz,99.9910394265233
+sla94700.srv.allianz,99.9910394265233
+sla92418.srv.allianz,99.9910394265233
+sla86847.srv.allianz,99.9910394265233
+sla82732.srv.allianz,99.9910394265233
+sla81847.srv.allianz,99.9910394265233
+sla80944.srv.allianz (e1-il-baw-uat),99.9910394265233
+sla80878.srv.allianz,99.9910394265233
+sla80550.srv.allianz,99.9910394265233
+sla80547.srv.allianz,99.9910394265233
+sla80540.srv.allianz,99.9910394265233
+sla78823,99.9910394265233
+sla31791.srv.allianz,99.9910394265233
+sla31149.srv.allianz,99.9910394265233
+sla29453.srv.allianz,99.9910394265233
+sla29255.srv.allianz,99.9910394265233
+sla22476.srv.allianz,99.9910394265233
+sla20977.srv.allianz,99.9910394265233
+sla14645.srv.allianz,99.9910394265233
+qs83710.agf.fr,99.9910394265233
+slb24457.srv.allianz,99.99103942652329
+slb23961.srv.allianz,99.99103942652329
+sla26999.srv.allianz,99.99103942652329
+slc13390,99.99066606929512
+slc13076,99.99066606929512
+slc13073,99.99066606929512
+sla93096.srv.allianz,99.99066606929512
+sla32167.srv.allianz,99.99066606929512
+slc13722,99.9906660692951
+slc13609,99.9906660692951
+slc13571.helix1.fc1.azure.aztec.cloud.allianz,99.9906660692951
+slc12574.aml-symphony-prod-p.we1.azure.aztec.cloud.allianz,99.9906660692951
+slc12304,99.9906660692951
+slc12195,99.9906660692951
+slc12155.rgp-vnet-fc-aml-azd-dev-d.fc1.azure.aztec.cloud.allianz,99.9906660692951
+slc12122,99.9906660692951
+slc12027.srv.allianz,99.9906660692951
+slc11607,99.9906660692951
+slc11601.srv.allianz,99.9906660692951
+slc11482,99.9906660692951
+slc11462,99.9906660692951
+slc11332,99.9906660692951
+slc11254.datau-dev.ec1.aws.aztec.cloud.allianz,99.9906660692951
+slc11107,99.9906660692951
+slc10883,99.9906660692951
+slb25880.srv.allianz,99.9906660692951
+slb24882.srv.allianz,99.9906660692951
+slb23882.srv.allianz,99.9906660692951
+sla99147.srv.allianz,99.9906660692951
+sla95915.srv.allianz,99.9906660692951
+sla82693.srv.allianz,99.9906660692951
+sla25500.srv.allianz,99.9906660692951
+sla22179.srv.allianz,99.9906660692951
+sla21050.srv.allianz,99.9906660692951
+sla19287.srv.allianz,99.9906660692951
+sla13481.srv.allianz,99.9906660692951
+slc12685,99.99066606929509
+slc12622.srv.allianz,99.99066606929509
+slc12409.srv.allianz,99.99066606929509
+slb25717.srv.allianz,99.99066606929509
+slb25201.srv.allianz,99.99066606929509
+sla95728.srv.allianz,99.99066606929509
+sla93615.srv.allianz,99.99066606929509
+sla92285.srv.allianz,99.99066606929509
+sla80726.srv.allianz (alias e1-nl-clarius-uat ),99.99066606929509
+sla32289.srv.allianz,99.99066606929509
+sla27215.srv.allianz,99.99066606929509
+sla25842.srv.allianz,99.99066606929509
+sla23759.srv.allianz,99.99066606929509
+sla22626.srv.allianz,99.99066606929509
+sla14196.srv.allianz,99.99066606929509
+sla12291.srv.allianz,99.99066606929509
+ap1sgaztl0008.srv.allianz,99.99066606929509
+slc13726,99.99029271206692
+slc13611,99.99029271206692
+slc13366,99.99029271206692
+slc12944.srv.allianz,99.99029271206692
+slc12607,99.99029271206692
+slc12362,99.99029271206692
+slc12188.sapcloud.we1.azure.aztec.cloud.allianz,99.99029271206692
+slc11441,99.99029271206692
+slc11358,99.99029271206692
+slc11356,99.99029271206692
+slc11353,99.99029271206692
+slc11187.sapcloud-1.we1.azure.aztec.cloud.allianz,99.99029271206692
+slc11026,99.99029271206692
+slc10943,99.99029271206692
+slc10867,99.99029271206692
+slb27078.srv.allianz,99.99029271206692
+slb25490.srv.allianz,99.99029271206692
+slb25445.srv.allianz,99.99029271206692
+sla91974.srv.allianz,99.99029271206692
+sla86870.srv.allianz,99.99029271206692
+sla85448.srv.allianz,99.99029271206692
+sla80880.srv.allianz,99.99029271206692
+sla22625.srv.allianz,99.99029271206692
+sla18292.srv.allianz,99.99029271206692
+sla14197.srv.allianz,99.99029271206692
+slc13724,99.9902927120669
+slc13467,99.9902927120669
+slc13412,99.9902927120669
+slc12506,99.9902927120669
+slc11936,99.9902927120669
+slc11848,99.9902927120669
+slc11830,99.9902927120669
+slc11634.srv.allianz,99.9902927120669
+slc11521,99.9902927120669
+slc10885,99.9902927120669
+slb26331.srv.allianz,99.9902927120669
+slb25769.srv.allianz,99.9902927120669
+slb25300.srv.allianz,99.9902927120669
+slb25210.srv.allianz,99.9902927120669
+slb25173.srv.allianz,99.9902927120669
+slb25111.srv.allianz,99.9902927120669
+slb23848.srv.allianz (ES),99.9902927120669
+slb23423.srv.allianz,99.9902927120669
+slb23422.srv.allianz,99.9902927120669
+slb21889.srv.allianz,99.9902927120669
+sla94911.srv.allianz,99.9902927120669
+sla85930.srv.allianz,99.9902927120669
+sla82677.srv.allianz,99.9902927120669
+sla81111.srv.allianz,99.9902927120669
+sla80909.srv.allianz,99.9902927120669
+sla80630.srv.allianz,99.9902927120669
+sla30680.srv.allianz,99.9902927120669
+sla27355.srv.allianz,99.9902927120669
+sla20978.srv.allianz,99.9902927120669
+sla16652.srv.allianz,99.9902927120669
+sla13389.srv.allianz,99.9902927120669
+sla12377.srv.allianz,99.9902927120669
+slc12686,99.98991935483872
+slc12537.sapcloud-1.we1.azure.aztec.cloud.allianz,99.98991935483872
+slc12391,99.98991935483872
+slc12198,99.98991935483872
+slc11850,99.98991935483872
+slc11564.srv.allianz,99.98991935483872
+slc11091,99.98991935483872
+slc10868,99.98991935483872
+slc10384,99.98991935483872
+sla81164.srv.allianz,99.98991935483872
+sla80874.srv.allianz,99.98991935483872
+slc13620,99.9899193548387
+slc13489,99.9899193548387
+slc13386,99.9899193548387
+slc13363,99.9899193548387
+slc13349.srv.allianz,99.9899193548387
+slc13097.srv.allianz,99.9899193548387
+slc12688,99.9899193548387
+slc12392,99.9899193548387
+slc12156.aml-symphony-preprod-p.fc1.azure.aztec.cloud.allianz,99.9899193548387
+slc11357,99.9899193548387
+slc10866,99.9899193548387
+slc10684,99.9899193548387
+slc10683,99.9899193548387
+slc10533,99.9899193548387
+slc10418.sapcloud.we1.azure.aztec.cloud.allianz,99.9899193548387
+slb27326.srv.allianz,99.9899193548387
+slb27169.srv.allianz,99.9899193548387
+slb27024.srv.allianz,99.9899193548387
+slb25045.srv.allianz,99.9899193548387
+slb23706.srv.allianz,99.9899193548387
+slb23479.srv.allianz,99.9899193548387
+slb21125.srv.allianz,99.9899193548387
+sla99763.srv.allianz (ES),99.9899193548387
+sla96418.srv.allianz,99.9899193548387
+sla94710.srv.allianz,99.9899193548387
+sla93485.srv.allianz,99.9899193548387
+sla89440.srv.allianz - ITS_IIQ - SAILPOINT,99.9899193548387
+sla87018.srv.allianz,99.9899193548387
+sla86562.srv.allianz,99.9899193548387
+sla86534.srv.allianz,99.9899193548387
+sla86505.srv.allianz,99.9899193548387
+sla85498.srv.allianz,99.9899193548387
+sla81195.srv.allianz,99.9899193548387
+sla80481.srv.allianz,99.9899193548387
+sla70062.srv.allianz,99.9899193548387
+sla27566.srv.allianz,99.9899193548387
+sla21985.srv.allianz,99.9899193548387
+sla20434.srv.allianz,99.9899193548387
+sla15150.srv.allianz,99.9899193548387
+sla11229.srv.allianz,99.9899193548387
+phpnb0139.srv.allianz,99.9899193548387
+slc13497.helix1.fc1.azure.aztec.cloud.allianz,99.98991935483869
+slc12943.srv.allianz,99.98991935483869
+slc12224,99.98991935483869
+slc10876,99.98991935483869
+slc10395,99.98991935483869
+slas0020.sapcloud.we1.azure.aztec.cloud.allianz,99.98991935483869
+sla19283.srv.allianz,99.98991935483869
+slc13723,99.98954599761052
+slc13407,99.98954599761052
+slc13389,99.98954599761052
+slc13286,99.98954599761052
+slc12646.helix.gwc1.azure.aztec.cloud.allianz,99.98954599761052
+slc12174.aml-azd-stg-p.gwc1.azure.aztec.cloud.allianz,99.98954599761052
+slc12168.aml-symphony-preprod-p.fc1.azure.aztec.cloud.allianz,99.98954599761052
+slc12167.aml-symphony-preprod-p.fc1.azure.aztec.cloud.allianz,99.98954599761052
+slc12166.aml-symphony-preprod-p.fc1.azure.aztec.cloud.allianz,99.98954599761052
+slc12162.aml-symphony-preprod-p.fc1.azure.aztec.cloud.allianz,99.98954599761052
+slc12014.srv.allianz,99.98954599761052
+slc11858.helix.gwc1.azure.aztec.cloud.allianz,99.98954599761052
+slc11857,99.98954599761052
+slc11649.srv.allianz,99.98954599761052
+slc11591,99.98954599761052
+slc11449,99.98954599761052
+slc11326.sapcloud.we1.azure.aztec.cloud.allianz,99.98954599761052
+slc11304.sapcloud.we1.azure.aztec.cloud.allianz,99.98954599761052
+slc11244,99.98954599761052
+slc10875,99.98954599761052
+slb27036.srv.allianz,99.98954599761052
+slb25480.srv.allianz,99.98954599761052
+slb25466.srv.allianz,99.98954599761052
+slb25363.srv.allianz,99.98954599761052
+slb24820.srv.allianz,99.98954599761052
+slb23428.srv.allianz,99.98954599761052
+slb20123.srv.allianz,99.98954599761052
+slas0025.sapcloud.we1.azure.aztec.cloud.allianz,99.98954599761052
+sla99223.srv.allianz,99.98954599761052
+sla93616.srv.allianz,99.98954599761052
+sla90960.srv.allianz,99.98954599761052
+sla89334.srv.allianz,99.98954599761052
+sla86566.srv.allianz,99.98954599761052
+sla82685.srv.allianz,99.98954599761052
+sla81711.srv.allianz,99.98954599761052
+sla31816.srv.allianz,99.98954599761052
+sla31813.srv.allianz,99.98954599761052
+sla31314.srv.allianz,99.98954599761052
+sla26438.srv.allianz,99.98954599761052
+sla26147.srv.allianz,99.98954599761052
+sla25635.srv.allianz,99.98954599761052
+sla22351.srv.allianz,99.98954599761052
+sla20979.srv.allianz,99.98954599761052
+sla20973.srv.allianz,99.98954599761052
+sla18216.srv.allianz,99.98954599761052
+qs84025.agf.fr,99.98954599761052
+azcdgma4,99.98954599761052
+slc13392,99.9895459976105
+slc13364,99.9895459976105
+slc12802,99.9895459976105
+slc12689,99.9895459976105
+slc12437,99.9895459976105
+slc12408.srv.allianz,99.9895459976105
+slc12320.sapcloud.we1.azure.aztec.cloud.allianz,99.9895459976105
+slc11618,99.9895459976105
+slc11550,99.9895459976105
+slc11313,99.9895459976105
+slc11143,99.9895459976105
+slb23959.srv.allianz,99.9895459976105
+slb23831.srv.allianz,99.9895459976105
+sla99182.srv.allianz,99.9895459976105
+sla93618.srv.allianz,99.9895459976105
+sla87019.srv.allianz,99.9895459976105
+sla30802.srv.allianz,99.9895459976105
+webdesarrollo,99.98917264038234
+slc13391,99.98917264038234
+slc13086,99.98917264038234
+slc12692,99.98917264038234
+slc12691,99.98917264038234
+slc12684,99.98917264038234
+slc11534.srv.allianz,99.98917264038234
+slc11452,99.98917264038234
+slc10878,99.98917264038234
+slb26605.srv.allianz,99.98917264038234
+slb21405.srv.allianz,99.98917264038234
+sla97700.srv.allianz,99.98917264038234
+sla81146.srv.allianz,99.98917264038234
+sla30687.srv.allianz,99.98917264038234
+slc13591.pega-dr-vpc-dtwsh-csnsbvrr3v3.ec1.aws.aztec.cloud.allianz,99.98917264038231
+slc13337,99.98917264038231
+slc12196,99.98917264038231
+slc12165.aml-symphony-preprod-p.fc1.azure.aztec.cloud.allianz,99.98917264038231
+slc12146.aml-symphony-preprod-p.fc1.azure.aztec.cloud.allianz,99.98917264038231
+slc11950,99.98917264038231
+slc11838,99.98917264038231
+slc11287,99.98917264038231
+slc11250.gisapps-d.fc1.azure.aztec.cloud.allianz,99.98917264038231
+slc11217,99.98917264038231
+slc11096,99.98917264038231
+slc11094,99.98917264038231
+slc11093,99.98917264038231
+slb25139.srv.allianz,99.98917264038231
+slb24878.srv.allianz,99.98917264038231
+slb21435.srv.allianz,99.98917264038231
+sla86873.srv.allianz,99.98917264038231
+sla86787.srv.allianz,99.98917264038231
+sla82676.srv.allianz,99.98917264038231
+sla80575.srv.allianz,99.98917264038231
+sla26966.srv.allianz,99.98917264038231
+sla26324.srv.allianz,99.98917264038231
+sla18701.srv.allianz,99.98917264038231
+slc13388,99.9891726403823
+slc13346,99.98879928315414
+slc13084,99.98879928315414
+slc11843,99.98879928315414
+slb26383.srv.allianz,99.98879928315414
+azframa2,99.98879928315414
+slc13410,99.98879928315412
+slc13130.sapcloud.ne1.azure.aztec.cloud.allianz,99.98879928315412
+slc13078,99.98879928315412
+slc12942.srv.allianz,99.98879928315412
+slc12652.vpc-prod-dr-rnf62-ni9dnnqd7mb.ec1.aws.aztec.cloud.allianz,99.98879928315412
+slc12435.srv.allianz,99.98879928315412
+slc12010.aml-symphony-d.we1.azure.aztec.cloud.allianz,99.98879928315412
+slc11840,99.98879928315412
+slc11533.srv.allianz,99.98879928315412
+slc11110,99.98879928315412
+slc10951,99.98879928315412
+slc10840,99.98879928315412
+slc10648,99.98879928315412
+slc10082.sapcloud.we1.azure.aztec.cloud.allianz,99.98879928315412
+slb24151.srv.allianz,99.98879928315412
+slb23921.srv.allianz,99.98879928315412
+slas0032.sapcloud.we1.azure.aztec.cloud.allianz,99.98879928315412
+slas0016.sapcloud.we1.azure.aztec.cloud.allianz,99.98879928315412
+sla99139.srv.allianz,99.98879928315412
+sla94219.srv.allianz,99.98879928315412
+sla92659.srv.allianz,99.98879928315412
+sla90811.srv.allianz - its_esb-admin-rect,99.98879928315412
+sla86634.srv.allianz,99.98879928315412
+sla86571.srv.allianz,99.98879928315412
+sla86538.srv.allianz,99.98879928315412
+sla82714.srv.allianz,99.98879928315412
+sla82704.srv.allianz,99.98879928315412
+sla81567.srv.allianz,99.98879928315412
+sla80345.srv.allianz,99.98879928315412
+sla25363.srv.allianz,99.98879928315412
+sla18257.srv.allianz,99.98879928315412
+qs84109 - its_ciam-cts-rect,99.98879928315412
+slc12803,99.98879928315411
+slc11841,99.98879928315411
+slc10686,99.98879928315411
+slb27136.srv.allianz,99.98879928315411
+slb23877.srv.allianz,99.98879928315411
+sla81155.srv.allianz,99.98879928315411
+slc13299,99.98842592592594
+slc12687,99.98842592592594
+slc12647.helix.gwc1.azure.aztec.cloud.allianz,99.98842592592594
+slc12501.srv.allianz,99.98842592592594
+slc12449.sapcloud-1.we1.azure.aztec.cloud.allianz,99.98842592592594
+slc12421,99.98842592592594
+slc12084.sapcloud-1.we1.azure.aztec.cloud.allianz,99.98842592592594
+slc11831,99.98842592592594
+slc11808,99.98842592592594
+slc11423,99.98842592592594
+slc11334,99.98842592592594
+slc11130,99.98842592592594
+slb26123.srv.allianz,99.98842592592594
+slb25743.srv.allianz,99.98842592592594
+slb25558.srv.allianz,99.98842592592594
+sla86762.srv.allianz,99.98842592592594
+sla86586.srv.allianz,99.98842592592594
+sla82674.srv.allianz,99.98842592592594
+sla29214.srv.allianz,99.98842592592594
+sla15632.srv.allianz,99.98842592592594
+slc13624,99.98842592592592
+slc13401,99.98842592592592
+slc13085,99.98842592592592
+slc12310,99.98842592592592
+slc12012.aml-symphony-d.we1.azure.aztec.cloud.allianz,99.98842592592592
+slb26653.srv.allianz,99.98842592592592
+slb23598.srv.allianz (Sahara TST),99.98842592592592
+slb23421.srv.allianz,99.98842592592592
+sla96406.srv.allianz,99.98842592592592
+sla82695.srv.allianz,99.98842592592592
+sla82026.srv.allianz,99.98842592592592
+sla81292.srv.allianz,99.98842592592592
+sla80906.srv.allianz,99.98842592592592
+sla31963.srv.allianz,99.98842592592592
+sla21023.srv.allianz,99.98842592592592
+sla14644.srv.allianz,99.98842592592592
+phpnb0125.srv.allianz,99.98842592592592
+phpnb0123.srv.allianz,99.98842592592592
+slc11839,99.98842592592591
+slc13264,99.98805256869774
+slc12197,99.98805256869774
+slc11277,99.98805256869774
+slc11251,99.98805256869774
+slc10864,99.98805256869774
+slc10078,99.98805256869774
+slb25216.srv.allianz,99.98805256869774
+sla94589.srv.allianz,99.98805256869774
+sla86401.srv.allianz,99.98805256869774
+sla30655.srv.allianz,99.98805256869774
+slc13596.srv.allianz,99.98805256869773
+slc12422,99.98805256869773
+slc11756,99.98805256869773
+slc11612,99.98805256869773
+slc11377.datau-prod.ew3.aws.aztec.cloud.allianz,99.98805256869773
+slc11309,99.98805256869773
+slc11095,99.98805256869773
+slc10645,99.98805256869773
+slc10440.sapcloud.we1.azure.aztec.cloud.allianz,99.98805256869773
+slc10159,99.98805256869773
+slb26069.srv.allianz,99.98805256869773
+slb25308.srv.allianz,99.98805256869773
+slb24828.srv.allianz,99.98805256869773
+slb23702.srv.allianz,99.98805256869773
+slas0042.sapcloud.we1.azure.aztec.cloud.allianz,99.98805256869773
+slas0027.sapcloud.we1.azure.aztec.cloud.allianz,99.98805256869773
+sla88359.srv.allianz,99.98805256869773
+sla86630.srv.allianz,99.98805256869773
+sla85073.srv.allianz,99.98805256869773
+sla30689.srv.allianz,99.98805256869773
+sla30665.srv.allianz,99.98805256869773
+sla26970.srv.allianz,99.98805256869773
+azframa4,99.98805256869773
+auapuamidas01,99.98805256869773
+slc13759.sapcloud.ne1.azure.aztec.cloud.allianz,99.98805256869771
+slc12308,99.98805256869771
+slc10886,99.98805256869771
+sla86356.srv.allianz,99.98805256869771
+slc13420,99.98767921146955
+slc11747,99.98767921146955
+slc13260.srv.allianz,99.98767921146954
+slc13224.srv.allianz,99.98767921146954
+slc12681.fltrnsfr.we1.azure.aztec.cloud.allianz,99.98767921146954
+slc12480,99.98767921146954
+slc11611,99.98767921146954
+slc11276,99.98767921146954
+slc10950,99.98767921146954
+slb25417.srv.allianz,99.98767921146954
+slb25182.srv.allianz,99.98767921146954
+sla97804.srv.allianz,99.98767921146954
+sla97119.srv.allianz,99.98767921146954
+sla94715.srv.allianz,99.98767921146954
+sla94585.srv.allianz,99.98767921146954
+sla89040.srv.allianz,99.98767921146954
+sla86565.srv.allianz,99.98767921146954
+sla86540.srv.allianz,99.98767921146954
+sla86313.srv.allianz,99.98767921146954
+sla82696.srv.allianz,99.98767921146954
+sla81151.srv.allianz,99.98767921146954
+sla80632.srv.allianz,99.98767921146954
+sla16088.srv.allianz,99.98767921146954
+cpfe2024,99.98767921146954
+cpfe2021,99.98767921146954
+slc13088,99.98767921146953
+slc11454,99.98767921146953
+slc10802,99.98767921146953
+sla94189.srv.allianz,99.98767921146953
+sla86570.srv.allianz,99.98767921146953
+slc13566,99.98730585424134
+slc13446,99.98730585424134
+slc13120.srv.allianz,99.98730585424134
+slc12767.srv.allianz,99.98730585424134
+slc11854.sapcloud-1.we1.azure.aztec.cloud.allianz,99.98730585424134
+slc11174.srv.allianz,99.98730585424134
+slb27574.srv.allianz,99.98730585424134
+slb26382.srv.allianz,99.98730585424134
+slb24737.srv.allianz,99.98730585424134
+slb20377.srv.allianz,99.98730585424134
+sla81935.srv.allianz,99.98730585424134
+sla81202.srv.allianz,99.98730585424134
+sla31150.srv.allianz,99.98730585424134
+sla27351.srv.allianz,99.98730585424134
+sla18213.srv.allianz,99.98730585424134
+azframa3,99.98730585424134
+slc12281,99.98730585424133
+slc12235,99.98730585424133
+slc11680.srv.allainz,99.98730585424133
+slc11361,99.98730585424133
+slb26624.srv.allianz,99.98730585424133
+slb24949.srv.allianz,99.98730585424133
+slb24822.srv.allianz,99.98730585424133
+slb24245.srv.allianz,99.98730585424133
+slb16348.srv.allianz,99.98730585424133
+sla98059.srv.allianz,99.98730585424133
+sla93831.srv.allianz,99.98730585424133
+pmasrvbck,99.98730585424133
+phpnb0138.srv.allianz,99.98730585424133
+slc13570.helix.gwc1.azure.aztec.cloud.allianz,99.98693249701316
+slc13507.helix.gwc1.azure.aztec.cloud.allianz,99.98693249701316
+slc12481,99.98693249701316
+slc11704,99.98693249701316
+slb25878.srv.allianz,99.98693249701316
+slc12253,99.98693249701314
+slc12184,99.98693249701314
+slc11632.srv.allianz,99.98693249701314
+slc11216.srv.allianz,99.98693249701314
+slc11092,99.98693249701314
+slb27590.srv.allianz,99.98693249701314
+slb26604.srv.allianz,99.98693249701314
+slb25540.srv.allianz,99.98693249701314
+slb24729.srv.allianz,99.98693249701314
+sla95222.srv.allianz,99.98693249701314
+sla86141.srv.allianz - its_esb-admin-dev,99.98693249701314
+sla81674.srv.allianz,99.98693249701314
+sla81182.srv.allianz,99.98693249701314
+sla80303.srv.allianz,99.98693249701314
+sla25604.srv.allianz,99.98693249701314
+sla25414.srv.allianz,99.98693249701314
+slb27253.srv.allianz,99.98693249701313
+sla28160.srv.allianz,99.98693249701313
+slc11874.srv.allianz,99.98655913978497
+slc12774.srv.allianz,99.98655913978494
+slc12291,99.98655913978494
+slc11412,99.98655913978494
+slc11325.sapcloud.we1.azure.aztec.cloud.allianz,99.98655913978494
+slb27188.srv.allianz,99.98655913978494
+slb26648.srv.allianz,99.98655913978494
+slb25481.srv.allianz,99.98655913978494
+slb24537.srv.allianz,99.98655913978494
+slas0040.sapcloud.we1.azure.aztec.cloud.allianz,99.98655913978494
+sla87489.srv.allianz,99.98655913978494
+sla87005.srv.allianz,99.98655913978494
+sla81618.srv.allianz,99.98655913978494
+sla31814.srv.allianz,99.98655913978494
+sla26148.srv.allianz,99.98655913978494
+slc11955.amlmt2-t.fc1.azure.aztec.cloud.allianz,99.98655913978493
+slc10865,99.98655913978493
+slb26744.srv.allianz,99.98655913978493
+slb25711.srv.allianz,99.98655913978493
+sla96992.srv.allianz,99.98655913978493
+sla31148.srv.allianz,99.98655913978493
+slc13408,99.98618578255676
+slc12011.aml-symphony-d.we1.azure.aztec.cloud.allianz,99.98618578255676
+slc11008,99.98618578255676
+slb26967.srv.allianz,99.98618578255675
+slb25465.srv.allianz,99.98618578255675
+slb25311.srv.allianz,99.98618578255675
+slb24958.srv.allianz,99.98618578255675
+sla99908.srv.allianz,99.98618578255675
+sla82048.srv.allianz,99.98618578255675
+sla81269.srv.allianz,99.98618578255675
+sla29620.srv.allianz,99.98618578255675
+sla21875.srv.allianz,99.98618578255675
+slc12234,99.98618578255673
+sla95806.srv.allianz,99.98618578255673
+slc13622,99.98581242532858
+slc12412.srv.allianz,99.98581242532856
+slb26377.srv.allianz,99.98581242532856
+slb25348.srv.allianz,99.98581242532856
+slb24514.srv.allianz,99.98581242532856
+sla95135.srv.allianz,99.98581242532856
+sla86874.srv.allianz,99.98581242532856
+sla81181.srv.allianz,99.98581242532856
+sla80892.srv.allianz,99.98581242532856
+sla80471.srv.allianz,99.98581242532856
+sla21893.srv.allianz,99.98581242532856
+sla14193.srv.allianz,99.98581242532856
+slc12283,99.98581242532855
+slc11768,99.98581242532855
+slc13561,99.98543906810038
+slc12042,99.98543906810038
+slc13595.aml-azd-stg-p.gwc1.azure.aztec.cloud.allianz,99.98543906810036
+slb25185.srv.allianz,99.98543906810036
+sla94221.srv.allianz,99.98543906810036
+sla31145.srv.allianz,99.98543906810036
+sla27350.srv.allianz,99.98543906810036
+azcdgma3,99.98543906810036
+slb26072.srv.allianz,99.98543906810035
+slas0024.sapcloud.we1.azure.aztec.cloud.allianz,99.98543906810035
+sla87462.srv.allianz,99.98543906810035
+sla81931.srv.allianz,99.98543906810035
+qs83733.agf.fr,99.98543906810035
+slc12475.srv.allianz,99.98506571087216
+slc11258.gisapps-d.fc1.azure.aztec.cloud.allianz,99.98506571087216
+slb25716.srv.allianz,99.98506571087216
+slb25418.srv.allianz,99.98506571087216
+sla86309.srv.allianz,99.98506571087216
+sla85418.srv.allianz,99.98506571087216
+sla80732.srv.allianz,99.98506571087216
+sla21874.srv.allianz,99.98506571087216
+slc12799.sapcloud.ne1.azure.aztec.cloud.allianz,99.98469235364398
+slc10676,99.98469235364398
+slc11288,99.98469235364396
+slb26073.srv.allianz,99.98469235364396
+slb25989.srv.allianz,99.98469235364396
+slb25366.srv.allianz,99.98469235364396
+slb23708.srv.allianz,99.98469235364396
+sla96405.srv.allianz,99.98469235364396
+sla94326.srv.allianz,99.98469235364396
+sla81212.srv.allianz,99.98469235364396
+sla32061.srv.allianz,99.98469235364396
+slc12682.fltrnsfr.we1.azure.aztec.cloud.allianz,99.98469235364395
+sla86329.srv.allianz,99.98469235364395
+sla85421.srv.allianz,99.98469235364395
+sla80798.srv.allianz,99.98469235364395
+sla29213.srv.allianz,99.98469235364395
+slc13707,99.98431899641578
+slc13207,99.98431899641578
+slc13201.srv.allianz,99.98431899641578
+slb20012.srv.allianz,99.98431899641578
+sla91848.srv.allianz,99.98431899641578
+sla81610.srv.allianz,99.98431899641578
+sla80926.srv.allianz,99.98431899641578
+sla80564.srv.allianz,99.98431899641578
+sla31143.srv.allianz,99.98431899641578
+sla21889.srv.allianz,99.98431899641578
+slb26652.srv.allianz,99.98431899641577
+slb23709.srv.allianz,99.98431899641577
+sla94594.srv.allianz,99.98431899641577
+sla82694.srv.allianz,99.98431899641577
+slc13301,99.98394563918758
+sla99122.srv.allianz,99.98394563918758
+sla94591.srv.allianz,99.98394563918758
+sla89236.srv.allianz,99.98394563918758
+slc12183,99.98394563918757
+slb27339.srv.allianz,99.98394563918757
+slb25362.srv.allianz,99.98394563918757
+slb25310.srv.allianz,99.98394563918757
+slb24458.srv.allianz,99.98394563918757
+slb23940.srv.allianz,99.98394563918757
+sla88954.srv.allianz,99.98394563918757
+sla22178.srv.allianz,99.98394563918757
+slb25570.srv.allianz,99.98394563918755
+slc12189.sapcloud.we1.azure.aztec.cloud.allianz,99.98357228195938
+slc11703,99.98357228195938
+slc11310,99.98357228195938
+slb24843.srv.allianz,99.98357228195938
+slb24599.srv.allianz,99.98357228195938
+sla97538.srv.allianz,99.98357228195938
+slc13134,99.98357228195937
+slc13546,99.9831989247312
+slb25055.srv.allianz,99.9831989247312
+slb24754.srv.allianz,99.9831989247312
+slc13558,99.98319892473118
+slc11774.amlmt2-1.fc1.azure.aztec.cloud.allianz,99.98319892473118
+sla94597.srv.allianz,99.98319892473118
+sla86994.srv.allianz,99.98319892473118
+sla30781.srv.allianz,99.98319892473118
+sla13397.srv.allianz,99.98319892473118
+slc13074,99.982825567503
+slc12305,99.982825567503
+slc10412.sapcloud.we1.azure.aztec.cloud.allianz,99.982825567503
+slb25059.srv.allianz,99.98282556750299
+slb23705.srv.allianz,99.98282556750299
+sla29623.srv.allianz,99.98282556750299
+sla13396.srv.allianz,99.98282556750299
+slb23906.srv.allianz,99.98282556750297
+sla81848.srv.allianz,99.98282556750297
+sla14189.srv.allianz,99.98282556750297
+sla95134.srv.allianz,99.98245221027481
+sla80884.srv.allianz,99.9824522102748
+slb20597.srv.allianz,99.98245221027479
+sla90953.srv.allianz,99.98245221027479
+sla89447.srv.allianz - ITS_IIQ - SAILPOINT,99.98245221027479
+sla81520.srv.allianz,99.98245221027479
+slb25058.srv.allianz,99.9820788530466
+slb26376.srv.allianz,99.98207885304659
+sla30725.srv.allianz,99.98207885304659
+slc10375.sapcloud.we1.azure.aztec.cloud.allianz,99.98170549581842
+slc13564,99.9817054958184
+slb21453.srv.allianz,99.9817054958184
+sla81613.srv.allianz,99.9817054958184
+sla29626.srv.allianz,99.9817054958184
+sla22490.srv.allianz,99.9817054958184
+sla94210.srv.allianz,99.98170549581839
+slc13375,99.9813321385902
+sla94218.srv.allianz,99.9813321385902
+sla80877.srv.allianz,99.9813321385902
+auapprmidas01.srv.allianz,99.9813321385902
+slc11633.srv.allianz,99.98133213859019
+slb23911.srv.allianz,99.98133213859019
+sla82686.srv.allianz,99.98133213859019
+sla81817.srv.allianz,99.98133213859019
+sla80561.srv.allianz,99.98133213859019
+sla19286.srv.allianz,99.98133213859019
+sla19284.srv.allianz,99.98133213859019
+sla31127.srv.allianz,99.98095878136202
+sla22301.srv.allianz,99.98095878136202
+slb25735.srv.allianz,99.980958781362
+slb23900.srv.allianz,99.980958781362
+slb23897.srv.allianz,99.980958781362
+slb23040.srv.allianz,99.980958781362
+sla81148.srv.allianz,99.980958781362
+sla80295.srv.allianz,99.980958781362
+sla80261.srv.allianz,99.980958781362
+sla91460.srv.allianz,99.98095878136199
+sla81680.srv.allianz,99.98095878136199
+slc13435,99.98058542413382
+slc12693,99.98058542413382
+slc11126,99.98058542413382
+sla99304.srv.allianz,99.98058542413382
+sla93499.srv.allianz,99.98058542413382
+sla86575.srv.allianz,99.98058542413382
+sla85933.srv.allianz,99.98058542413382
+sla31126.srv.allianz,99.98058542413382
+slb24512.srv.allianz,99.9805854241338
+sla86312.srv.allianz,99.9805854241338
+sla21027.srv.allianz,99.9805854241338
+slc13495.helix.gwc1.azure.aztec.cloud.allianz,99.98021206690564
+sla27264.srv.allianz,99.98021206690564
+slb25050.srv.allianz,99.98021206690562
+sla94209.srv.allianz,99.98021206690562
+sla85443.srv.allianz,99.98021206690562
+sla31962.srv.allianz,99.98021206690562
+sla21028.srv.allianz,99.98021206690562
+slc12434,99.98021206690561
+slb23920.srv.allianz,99.98021206690561
+sla94324.srv.allianz,99.98021206690561
+sla25811.srv.allianz,99.98021206690561
+sla86763.srv.allianz,99.97983870967744
+qs83894.agf.fr,99.97983870967744
+slb25669.srv.allianz,99.97983870967742
+sla94702.srv.allianz,99.97983870967742
+sla81109.srv.allianz,99.97983870967742
+sla31144.srv.allianz,99.97983870967742
+slb23880.srv.allianz,99.97946535244924
+slc12975.sapcloud.ne1.azure.aztec.cloud.allianz,99.97946535244922
+sla86755.srv.allianz,99.97946535244922
+sla82687.srv.allianz,99.97946535244922
+slc13557,99.97946535244921
+sla99303.srv.allianz,99.97946535244921
+sla30416.srv.allianz,99.97946535244921
+slc12251,99.9794653524492
+auapprmidas02.srv.allianz,99.97909199522104
+slb25742.srv.allianz,99.97909199522103
+slb23918.srv.allianz,99.97909199522103
+slb24752.srv.allianz,99.97909199522101
+slc12750,99.97871863799284
+slb25715.srv.allianz,99.97871863799284
+sla12292.srv.allianz,99.97871863799284
+slc10298.sapcloud.we1.azure.aztec.cloud.allianz,99.97871863799281
+sla86642.srv.allianz,99.97871863799281
+sla80494.srv.allianz,99.97871863799281
+slb24952.srv.allianz,99.97834528076464
+sla80908.srv.allianz,99.97834528076464
+slc12107,99.97834528076463
+slc12074,99.97834528076463
+slb23885.srv.allianz,99.97834528076463
+slb23696.srv.allianz,99.97834528076463
+slb24515.srv.allianz,99.97797192353646
+sla95133.srv.allianz,99.97797192353646
+sla82050.srv.allianz,99.97797192353644
+qs83709.agf.fr,99.97797192353643
+slc13646,99.97759856630825
+qs83967.agf.fr,99.97759856630825
+slc12919,99.97722520908006
+sla26013.srv.allianz,99.97722520908005
+sla86868.srv.allianz,99.97685185185186
+sla86765.srv.allianz,99.97685185185186
+slb23910.srv.allianz,99.97685185185185
+slb21408.srv.allianz,99.97685185185185
+sla11158.srv.allianz,99.97685185185185
+slc13166,99.97685185185183
+sla85474.srv.allianz,99.97685185185183
+slc13631.sapcloud-1.we1.azure.aztec.cloud.allianz,99.97647849462366
+slc12367,99.97647849462366
+slb26365.srv.allianz,99.97647849462366
+slb25108.srv.allianz,99.97647849462366
+slb24086.srv.allianz,99.97647849462366
+sla86331.srv.allianz,99.97647849462365
+sla80881.srv.allianz,99.97647849462365
+slc13436,99.97610513739546
+slc13133,99.97610513739545
+slc12719,99.97610513739545
+slb25707.srv.allianz,99.97610513739545
+sla86990.srv.allianz,99.97610513739545
+sla80576.srv.allianz,99.97610513739545
+sla30415.srv.allianz,99.97610513739545
+sla21872.srv.allianz,99.97610513739545
+slc12678,99.97610513739544
+sla27376.srv.allianz,99.97610513739544
+sla80885.srv.allianz,99.97573178016728
+sla81242.srv.allianz,99.97573178016727
+sla87300.srv.allianz,99.97573178016725
+slc12095,99.97535842293908
+slb23908.srv.allianz,99.97535842293908
+sla86332.srv.allianz,99.97535842293908
+sla86171.srv.allianz,99.97535842293908
+slc13434,99.97498506571088
+slb25850.srv.allianz,99.97498506571087
+slb25714.srv.allianz,99.97498506571087
+slb23907.srv.allianz,99.97498506571087
+slc13633.sapcloud-1.we1.azure.aztec.cloud.allianz,99.97461170848268
+slc11952.sapcloud-1.we1.azure.aztec.cloud.allianz,99.97461170848268
+slc10416.sapcloud.we1.azure.aztec.cloud.allianz,99.97461170848268
+sla30780.srv.allianz,99.97461170848268
+slc12751,99.97461170848267
+slc10415.sapcloud.we1.azure.aztec.cloud.allianz,99.97461170848267
+slb23916.srv.allianz,99.97461170848267
+slc13619,99.97423835125448
+slc13618,99.97423835125448
+slc12759,99.97423835125448
+slc12108,99.97423835125448
+slc11785,99.97423835125448
+slb23986.srv.allianz,99.97423835125448
+slc11646.srv.allianz,99.97423835125447
+slc10368.sapcloud.we1.azure.aztec.cloud.allianz,99.97386499402629
+sla19285.srv.allianz,99.97386499402629
+sla80891.srv.allianz,99.97386499402627
+slb23944.srv.allianz,99.97349163679809
+slb23042.srv.allianz,99.97349163679809
+slb23917.srv.allianz,99.97349163679807
+slb20632.srv.allianz,99.97349163679807
+sla90802.srv.allianz,99.97349163679807
+sla80699.srv.allianz,99.9731182795699
+slc11935,99.97311827956989
+slc12018,99.97274492234172
+slb25204.srv.allianz,99.97274492234172
+slb25107.srv.allianz,99.9727449223417
+sla31541.srv.allianz,99.9727449223417
+sla19288.srv.allianz,99.97274492234168
+slc12660.sapcloud-1.we1.azure.aztec.cloud.allianz,99.9723715651135
+slb23909.srv.allianz,99.9723715651135
+slb23899.srv.allianz,99.9723715651135
+sla85913.srv.allianz,99.9723715651135
+slc10441.sapcloud.we1.azure.aztec.cloud.allianz,99.97237156511349
+sla81849.srv.allianz,99.97237156511349
+slb27540.srv",,
